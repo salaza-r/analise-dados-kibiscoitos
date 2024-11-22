@@ -1,0 +1,1574 @@
+numero_pedido,local_venda,data,tipo_biscoito,nome_biscoito,quantidade_biscoito,preco
+1,Jardim de Alah,2024-09-23,Salgado,Polvilho natural,420,25.2
+1,Jardim de Alah,2024-09-23,Salgado,Polvilho cebola,180,10.8
+2,Jardim de Alah,2024-09-23,Salgado,Peito de peru,901,54.06
+2,Jardim de Alah,2024-09-23,Salgado,Bolinha de bacon,160,9.6
+2,Jardim de Alah,2024-09-23,Salgado,Bolinha de bacon,901,54.06
+3,Jardim de Alah,2024-09-23,Doce,Topless,120,7.2
+4,Jardim de Alah,2024-09-23,Salgado,Polvilho cebola,160,9.6
+5,Jardim de Alah,2024-09-23,Doce,Casadinho goiaba,651,45.57
+5,Jardim de Alah,2024-09-23,Doce,Casadinho goiaba,340,23.8
+6,Jardim de Alah,2024-09-23,Doce,Champanhota,360,21.6
+7,Jardim de Alah,2024-09-23,Doce,Canudinho chocolate,1801,126.07
+8,Jardim de Alah,2024-09-23,Salgado,Pastelzinho de queijo,140,8.4
+9,Jardim de Alah,2024-09-23,Doce,Casadinho doce de leite,360,25.2
+10,Jardim de Alah,2024-09-23,Salgado,Truton,380,22.8
+10,Jardim de Alah,2024-09-23,Salgado,Bolinha de bacon,380,22.8
+11,Jardim de Alah,2024-09-23,Doce,Nata,160,9.6
+11,Jardim de Alah,2024-09-23,Doce,Canudinho nutella,380,30.4
+11,Jardim de Alah,2024-09-23,Doce,Champanhota canela,320,19.2
+12,Jardim de Alah,2024-09-23,Salgado,Peito de peru,360,21.6
+13,Jardim de Alah,2024-09-23,Salgado,Disquete,200,14.0
+13,Jardim de Alah,2024-09-23,Salgado,Polvilho cebola,400,24.0
+13,Jardim de Alah,2024-09-23,Salgado,Disquete,220,15.4
+14,Jardim de Alah,2024-09-23,Salgado,Peito de peru,240,14.4
+14,Jardim de Alah,2024-09-23,Salgado,Polvilho queijo,100,6.0
+15,Jardim de Alah,2024-09-23,Doce,Leite condensado,1401,84.06
+15,Jardim de Alah,2024-09-23,Doce,Leite condensado,300,18.0
+15,Jardim de Alah,2024-09-23,Doce,Nata com folhos,260,15.6
+16,Jardim de Alah,2024-09-23,Doce,Mil folhas,100,7.0
+16,Jardim de Alah,2024-09-23,Doce,Canudinho nutella,1951,156.08
+17,Nossa senhora da paz,2024-09-27,Doce,Brinquinho,140,8.4
+18,Nossa senhora da paz,2024-09-27,Doce,Brinquinho,1551,93.06
+18,Nossa senhora da paz,2024-09-27,Doce,Casadinho doce de leite,280,19.6
+19,Nossa senhora da paz,2024-09-27,Doce,Casadinho goiaba,300,21.0
+19,Nossa senhora da paz,2024-09-27,Doce,Leque,360,25.2
+20,Nossa senhora da paz,2024-09-27,Doce,Mil folhas,120,8.4
+21,Nossa senhora da paz,2024-09-27,Salgado,Peito de peru,240,14.4
+22,Nossa senhora da paz,2024-09-27,Salgado,Disquete,460,32.2
+23,Nossa senhora da paz,2024-09-27,Doce,Casadinho goiaba,180,12.6
+24,Nossa senhora da paz,2024-09-27,Salgado,Polvilho natural,400,24.0
+24,Nossa senhora da paz,2024-09-27,Salgado,Polvilho natural,480,28.8
+25,Nossa senhora da paz,2024-09-27,Salgado,Peito de peru,200,12.0
+26,Nossa senhora da paz,2024-09-27,Salgado,Polvilho natural,180,10.8
+26,Nossa senhora da paz,2024-09-27,Salgado,Peito de peru,160,9.6
+27,Nossa senhora da paz,2024-09-27,Salgado,Truton,120,7.2
+28,Nossa senhora da paz,2024-09-27,Doce,Palmier,220,15.4
+29,Nossa senhora da paz,2024-09-27,Doce,Champanhota,140,8.4
+30,Nossa senhora da paz,2024-09-27,Doce,Casadinho doce de leite,300,21.0
+30,Nossa senhora da paz,2024-09-27,Doce,Casadinho goiaba,440,30.8
+31,Nossa senhora da paz,2024-09-27,Salgado,Bolinha de bacon,440,26.4
+32,Largo do Machado,2024-09-28,Doce,Leite condensado,180,10.8
+32,Largo do Machado,2024-09-28,Doce,Leque,180,12.6
+32,Largo do Machado,2024-09-28,Doce,Palmier canela,280,19.6
+33,Largo do Machado,2024-09-28,Salgado,Bolinha de bacon,1901,114.06
+33,Largo do Machado,2024-09-28,Salgado,Polvilho natural,300,18.0
+33,Largo do Machado,2024-09-28,Salgado,Bolinha de bacon,260,15.6
+33,Largo do Machado,2024-09-28,Salgado,Polvilho cebola,400,24.0
+33,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,440,26.4
+33,Largo do Machado,2024-09-28,Salgado,Truton,260,15.6
+33,Largo do Machado,2024-09-28,Salgado,Truton,400,24.0
+33,Largo do Machado,2024-09-28,Salgado,Peito de peru,280,16.8
+33,Largo do Machado,2024-09-28,Salgado,Disquete,160,11.2
+33,Largo do Machado,2024-09-28,Salgado,Bolinha de bacon,220,13.2
+34,Largo do Machado,2024-09-28,Doce,Leque,440,30.8
+34,Largo do Machado,2024-09-28,Doce,Palmier,220,15.4
+35,Largo do Machado,2024-09-28,Salgado,Truton,480,28.8
+36,Largo do Machado,2024-09-28,Salgado,Polvilho natural,440,26.4
+37,Largo do Machado,2024-09-28,Salgado,Peito de peru,460,27.6
+37,Largo do Machado,2024-09-28,Salgado,Truton,480,28.8
+37,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,460,27.6
+38,Largo do Machado,2024-09-28,Doce,Canudinho chocolate,420,29.4
+39,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,501,30.06
+39,Largo do Machado,2024-09-28,Salgado,Truton,360,21.6
+40,Largo do Machado,2024-09-28,Salgado,Polvilho cebola,480,28.8
+40,Largo do Machado,2024-09-28,Salgado,Truton,400,24.0
+41,Largo do Machado,2024-09-28,Doce,Nata,420,25.2
+41,Largo do Machado,2024-09-28,Doce,Brinquinho,420,25.2
+42,Largo do Machado,2024-09-28,Doce,Leque,140,9.8
+43,Largo do Machado,2024-09-28,Doce,Vaidosa,851,51.06
+44,Largo do Machado,2024-09-28,Salgado,Polvilho natural,260,15.6
+44,Largo do Machado,2024-09-28,Salgado,Peito de peru,460,27.6
+45,Largo do Machado,2024-09-28,Doce,Palmier canela,1951,136.57
+46,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,1201,72.06
+47,Largo do Machado,2024-09-28,Doce,Mil folhas,300,21.0
+48,Largo do Machado,2024-09-28,Doce,Vaidosa,400,24.0
+48,Largo do Machado,2024-09-28,Doce,Casadinho doce de leite,300,21.0
+49,Largo do Machado,2024-09-28,Salgado,Polvilho natural,220,13.2
+49,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,380,22.8
+49,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,480,28.8
+50,Largo do Machado,2024-09-28,Salgado,Peito de peru,460,27.6
+50,Largo do Machado,2024-09-28,Salgado,Polvilho cebola,140,8.4
+50,Largo do Machado,2024-09-28,Salgado,Peito de peru,480,28.8
+51,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,260,15.6
+51,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,440,26.4
+51,Largo do Machado,2024-09-28,Salgado,Bolinha de bacon,280,16.8
+51,Largo do Machado,2024-09-28,Salgado,Bolinha de bacon,420,25.2
+51,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,380,22.8
+51,Largo do Machado,2024-09-28,Salgado,Polvilho cebola,240,14.4
+52,Largo do Machado,2024-09-28,Salgado,Truton,300,18.0
+52,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,240,14.4
+52,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,240,14.4
+53,Largo do Machado,2024-09-28,Doce,Canudinho chocolate,480,33.6
+53,Largo do Machado,2024-09-28,Doce,Canudinho chocolate,420,29.4
+53,Largo do Machado,2024-09-28,Doce,Palmier,380,26.6
+53,Largo do Machado,2024-09-28,Doce,Brinquinho,360,21.6
+53,Largo do Machado,2024-09-28,Doce,Champanhota canela,180,10.8
+54,Largo do Machado,2024-09-28,Doce,Canudinho nutella,901,72.08
+55,Largo do Machado,2024-09-28,Doce,Canudinho chocolate,260,18.2
+55,Largo do Machado,2024-09-28,Doce,Leite condensado,400,24.0
+55,Largo do Machado,2024-09-28,Doce,Leite condensado,420,25.2
+56,Largo do Machado,2024-09-28,Doce,Rosca da penha,120,7.2
+56,Largo do Machado,2024-09-28,Doce,Champanhota,260,15.6
+57,Largo do Machado,2024-09-28,Salgado,Polvilho natural,160,9.6
+57,Largo do Machado,2024-09-28,Salgado,Disquete,360,25.2
+58,Largo do Machado,2024-09-28,Salgado,Polvilho natural,380,22.8
+59,Largo do Machado,2024-09-28,Salgado,Polvilho natural,400,24.0
+60,Largo do Machado,2024-09-28,Salgado,Truton,220,13.2
+60,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,380,22.8
+61,Largo do Machado,2024-09-28,Doce,Leque,440,30.8
+61,Largo do Machado,2024-09-28,Doce,Canudinho chocolate,320,22.4
+62,Largo do Machado,2024-09-28,Salgado,Polvilho natural,340,20.4
+63,Largo do Machado,2024-09-28,Salgado,Truton,140,8.4
+64,Largo do Machado,2024-09-28,Doce,Palmier canela,420,29.4
+65,Largo do Machado,2024-09-28,Salgado,Polvilho queijo,140,8.4
+65,Largo do Machado,2024-09-28,Salgado,Pastelzinho de queijo,260,15.6
+66,Siqueira Campos,2024-09-29,Salgado,Pastelzinho de queijo,340,20.4
+67,Siqueira Campos,2024-09-29,Salgado,Truton,260,15.6
+68,Siqueira Campos,2024-09-29,Doce,Casadinho doce de leite,1501,105.07
+69,Siqueira Campos,2024-09-29,Salgado,Polvilho queijo,420,25.2
+69,Siqueira Campos,2024-09-29,Salgado,Polvilho queijo,340,20.4
+70,Siqueira Campos,2024-09-29,Salgado,Pastelzinho de queijo,380,22.8
+70,Siqueira Campos,2024-09-29,Salgado,Polvilho natural,360,21.6
+71,Siqueira Campos,2024-09-29,Salgado,Bolinha de bacon,220,13.2
+72,Siqueira Campos,2024-09-29,Doce,Nata com folhos,480,28.8
+73,Siqueira Campos,2024-09-29,Doce,Mentirinha,400,24.0
+73,Siqueira Campos,2024-09-29,Doce,Brinquinho,220,13.2
+73,Siqueira Campos,2024-09-29,Doce,Topless,100,6.0
+73,Siqueira Campos,2024-09-29,Doce,Leite condensado,320,19.2
+74,Siqueira Campos,2024-09-29,Salgado,Truton,200,12.0
+75,Siqueira Campos,2024-09-29,Doce,Palmier canela,260,18.2
+75,Siqueira Campos,2024-09-29,Doce,Brinquinho,340,20.4
+76,Jardim de Alah,2024-09-30,Salgado,Peito de peru,280,16.8
+76,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,100,6.0
+77,Jardim de Alah,2024-09-30,Salgado,Bolinha de bacon,300,18.0
+77,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,480,28.8
+78,Jardim de Alah,2024-09-30,Salgado,Disquete,460,32.2
+79,Jardim de Alah,2024-09-30,Salgado,Peito de peru,100,6.0
+80,Jardim de Alah,2024-09-30,Salgado,Polvilho queijo,180,10.8
+80,Jardim de Alah,2024-09-30,Salgado,Bolinha de bacon,460,27.6
+80,Jardim de Alah,2024-09-30,Salgado,Truton,460,27.6
+80,Jardim de Alah,2024-09-30,Salgado,Disquete,340,23.8
+80,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,1651,99.06
+80,Jardim de Alah,2024-09-30,Salgado,Polvilho natural,260,15.6
+80,Jardim de Alah,2024-09-30,Salgado,Disquete,220,15.4
+80,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,1201,72.06
+80,Jardim de Alah,2024-09-30,Salgado,Peito de peru,460,27.6
+80,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,160,9.6
+81,Jardim de Alah,2024-09-30,Salgado,Polvilho queijo,320,19.2
+82,Jardim de Alah,2024-09-30,Doce,Nata com folhos,220,13.2
+82,Jardim de Alah,2024-09-30,Doce,Nata com folhos,120,7.2
+83,Jardim de Alah,2024-09-30,Salgado,Pastelzinho de queijo,280,16.8
+83,Jardim de Alah,2024-09-30,Salgado,Pastelzinho de queijo,160,9.6
+83,Jardim de Alah,2024-09-30,Salgado,Disquete,280,19.6
+84,Jardim de Alah,2024-09-30,Salgado,Polvilho natural,460,27.6
+85,Jardim de Alah,2024-09-30,Salgado,Disquete,120,8.4
+85,Jardim de Alah,2024-09-30,Salgado,Bolinha de bacon,220,13.2
+86,Jardim de Alah,2024-09-30,Doce,Canudinho chocolate,340,23.8
+86,Jardim de Alah,2024-09-30,Doce,Topless,140,8.4
+87,Jardim de Alah,2024-09-30,Doce,Champanhota canela,1151,69.06
+88,Jardim de Alah,2024-09-30,Salgado,Peito de peru,601,36.06
+88,Jardim de Alah,2024-09-30,Salgado,Disquete,400,28.0
+88,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,380,22.8
+88,Jardim de Alah,2024-09-30,Salgado,Bolinha de bacon,480,28.8
+89,Jardim de Alah,2024-09-30,Salgado,Truton,340,20.4
+90,Jardim de Alah,2024-09-30,Salgado,Truton,1551,93.06
+90,Jardim de Alah,2024-09-30,Salgado,Pastelzinho de queijo,300,18.0
+91,Jardim de Alah,2024-09-30,Salgado,Polvilho queijo,1901,114.06
+91,Jardim de Alah,2024-09-30,Salgado,Polvilho natural,180,10.8
+91,Jardim de Alah,2024-09-30,Salgado,Pastelzinho de queijo,280,16.8
+91,Jardim de Alah,2024-09-30,Salgado,Polvilho cebola,180,10.8
+91,Jardim de Alah,2024-09-30,Salgado,Polvilho queijo,380,22.8
+91,Jardim de Alah,2024-09-30,Salgado,Peito de peru,200,12.0
+92,Jardim de Alah,2024-09-30,Salgado,Bolinha de bacon,340,20.4
+93,Jardim de Alah,2024-09-30,Doce,Casadinho doce de leite,160,11.2
+94,Nossa senhora da paz,2024-10-04,Salgado,Bolinha de bacon,1251,75.06
+95,Nossa senhora da paz,2024-10-04,Doce,Champanhota,100,6.0
+96,Nossa senhora da paz,2024-10-04,Doce,Canudinho chocolate,440,30.8
+96,Nossa senhora da paz,2024-10-04,Doce,Canudinho nutella,160,12.8
+96,Nossa senhora da paz,2024-10-04,Doce,Champanhota canela,180,10.8
+97,Nossa senhora da paz,2024-10-04,Doce,Topless,200,12.0
+98,Nossa senhora da paz,2024-10-04,Doce,Palmier canela,300,21.0
+99,Nossa senhora da paz,2024-10-04,Salgado,Peito de peru,160,9.6
+100,Nossa senhora da paz,2024-10-04,Doce,Palmier,1201,84.07
+100,Nossa senhora da paz,2024-10-04,Doce,Topless,160,9.6
+100,Nossa senhora da paz,2024-10-04,Doce,Brinquinho,320,19.2
+100,Nossa senhora da paz,2024-10-04,Doce,Champanhota canela,480,28.8
+101,Nossa senhora da paz,2024-10-04,Doce,Brinquinho,240,14.4
+102,Nossa senhora da paz,2024-10-04,Doce,Mil folhas,100,7.0
+102,Nossa senhora da paz,2024-10-04,Doce,Brinquinho,360,21.6
+102,Nossa senhora da paz,2024-10-04,Doce,Brinquinho,120,7.2
+103,Nossa senhora da paz,2024-10-04,Salgado,Disquete,480,33.6
+103,Nossa senhora da paz,2024-10-04,Salgado,Polvilho natural,460,27.6
+104,Nossa senhora da paz,2024-10-04,Doce,Mentirinha,360,21.6
+105,Nossa senhora da paz,2024-10-04,Doce,Nata,260,15.6
+106,Nossa senhora da paz,2024-10-04,Doce,Champanhota,200,12.0
+107,Nossa senhora da paz,2024-10-04,Doce,Topless,1401,84.06
+107,Nossa senhora da paz,2024-10-04,Doce,Champanhota canela,240,14.4
+107,Nossa senhora da paz,2024-10-04,Doce,Brinquinho,1751,105.06
+107,Nossa senhora da paz,2024-10-04,Doce,Mil folhas,1851,129.57
+108,Nossa senhora da paz,2024-10-04,Salgado,Peito de peru,320,19.2
+108,Nossa senhora da paz,2024-10-04,Salgado,Polvilho queijo,140,8.4
+108,Nossa senhora da paz,2024-10-04,Salgado,Pastelzinho de queijo,120,7.2
+108,Nossa senhora da paz,2024-10-04,Salgado,Truton,320,19.2
+108,Nossa senhora da paz,2024-10-04,Salgado,Truton,220,13.2
+109,Nossa senhora da paz,2024-10-04,Salgado,Polvilho natural,120,7.2
+110,Nossa senhora da paz,2024-10-04,Salgado,Polvilho natural,120,7.2
+110,Nossa senhora da paz,2024-10-04,Salgado,Peito de peru,220,13.2
+110,Nossa senhora da paz,2024-10-04,Salgado,Disquete,440,30.8
+111,Nossa senhora da paz,2024-10-04,Salgado,Pastelzinho de queijo,120,7.2
+111,Nossa senhora da paz,2024-10-04,Salgado,Peito de peru,140,8.4
+111,Nossa senhora da paz,2024-10-04,Salgado,Polvilho natural,480,28.8
+112,Nossa senhora da paz,2024-10-04,Salgado,Bolinha de bacon,460,27.6
+113,Nossa senhora da paz,2024-10-04,Doce,Palmier,240,16.8
+114,Nossa senhora da paz,2024-10-04,Doce,Casadinho doce de leite,380,26.6
+114,Nossa senhora da paz,2024-10-04,Doce,Vaidosa,460,27.6
+114,Nossa senhora da paz,2024-10-04,Doce,Palmier canela,160,11.2
+115,Nossa senhora da paz,2024-10-04,Salgado,Bolinha de bacon,340,20.4
+115,Nossa senhora da paz,2024-10-04,Salgado,Polvilho queijo,320,19.2
+116,Nossa senhora da paz,2024-10-04,Doce,Mentirinha,380,22.8
+117,Nossa senhora da paz,2024-10-04,Salgado,Polvilho natural,280,16.8
+118,Nossa senhora da paz,2024-10-04,Doce,Mil folhas,400,28.0
+119,Nossa senhora da paz,2024-10-04,Doce,Champanhota,200,12.0
+120,Nossa senhora da paz,2024-10-04,Doce,Champanhota,300,18.0
+120,Nossa senhora da paz,2024-10-04,Doce,Mentirinha,440,26.4
+121,Nossa senhora da paz,2024-10-04,Salgado,Pastelzinho de queijo,180,10.8
+121,Nossa senhora da paz,2024-10-04,Salgado,Peito de peru,551,33.06
+122,Nossa senhora da paz,2024-10-04,Doce,Palmier canela,100,7.0
+122,Nossa senhora da paz,2024-10-04,Doce,Topless,400,24.0
+123,Nossa senhora da paz,2024-10-04,Doce,Topless,140,8.4
+123,Nossa senhora da paz,2024-10-04,Doce,Casadinho goiaba,120,8.4
+123,Nossa senhora da paz,2024-10-04,Doce,Champanhota,220,13.2
+123,Nossa senhora da paz,2024-10-04,Doce,Casadinho doce de leite,100,7.0
+124,Nossa senhora da paz,2024-10-04,Doce,Palmier canela,280,19.6
+124,Nossa senhora da paz,2024-10-04,Doce,Mil folhas,140,9.8
+125,Nossa senhora da paz,2024-10-04,Salgado,Polvilho queijo,180,10.8
+126,Nossa senhora da paz,2024-10-04,Salgado,Pastelzinho de queijo,280,16.8
+126,Nossa senhora da paz,2024-10-04,Salgado,Truton,240,14.4
+127,Nossa senhora da paz,2024-10-04,Doce,Mentirinha,1701,102.06
+127,Nossa senhora da paz,2024-10-04,Doce,Leite condensado,480,28.8
+128,Largo do Machado,2024-10-05,Doce,Casadinho doce de leite,400,28.0
+129,Largo do Machado,2024-10-05,Salgado,Disquete,420,29.4
+129,Largo do Machado,2024-10-05,Salgado,Truton,400,24.0
+130,Largo do Machado,2024-10-05,Doce,Topless,200,12.0
+130,Largo do Machado,2024-10-05,Doce,Nata,400,24.0
+131,Largo do Machado,2024-10-05,Doce,Canudinho nutella,140,11.2
+131,Largo do Machado,2024-10-05,Doce,Canudinho nutella,240,19.2
+132,Largo do Machado,2024-10-05,Salgado,Pastelzinho de queijo,260,15.6
+132,Largo do Machado,2024-10-05,Salgado,Polvilho natural,420,25.2
+133,Largo do Machado,2024-10-05,Doce,Casadinho doce de leite,480,33.6
+133,Largo do Machado,2024-10-05,Doce,Mentirinha,160,9.6
+133,Largo do Machado,2024-10-05,Doce,Rosca da penha,280,16.8
+133,Largo do Machado,2024-10-05,Doce,Topless,140,8.4
+134,Largo do Machado,2024-10-05,Salgado,Peito de peru,400,24.0
+135,Largo do Machado,2024-10-05,Salgado,Polvilho queijo,440,26.4
+135,Largo do Machado,2024-10-05,Salgado,Peito de peru,280,16.8
+135,Largo do Machado,2024-10-05,Salgado,Peito de peru,280,16.8
+135,Largo do Machado,2024-10-05,Salgado,Polvilho natural,180,10.8
+136,Largo do Machado,2024-10-05,Salgado,Polvilho cebola,160,9.6
+136,Largo do Machado,2024-10-05,Salgado,Peito de peru,320,19.2
+137,Largo do Machado,2024-10-05,Salgado,Polvilho natural,220,13.2
+137,Largo do Machado,2024-10-05,Salgado,Polvilho queijo,360,21.6
+138,Largo do Machado,2024-10-05,Doce,Canudinho nutella,380,30.4
+138,Largo do Machado,2024-10-05,Doce,Nata,180,10.8
+139,Siqueira Campos,2024-10-06,Salgado,Disquete,420,29.4
+139,Siqueira Campos,2024-10-06,Salgado,Polvilho queijo,200,12.0
+140,Siqueira Campos,2024-10-06,Doce,Casadinho goiaba,380,26.6
+141,Siqueira Campos,2024-10-06,Doce,Nata com folhos,340,20.4
+142,Siqueira Campos,2024-10-06,Doce,Casadinho goiaba,160,11.2
+142,Siqueira Campos,2024-10-06,Doce,Nata com folhos,160,9.6
+143,Siqueira Campos,2024-10-06,Salgado,Polvilho natural,360,21.6
+144,Siqueira Campos,2024-10-06,Doce,Champanhota canela,220,13.2
+144,Siqueira Campos,2024-10-06,Doce,Canudinho nutella,340,27.2
+144,Siqueira Campos,2024-10-06,Doce,Casadinho goiaba,300,21.0
+145,Siqueira Campos,2024-10-06,Salgado,Polvilho natural,280,16.8
+145,Siqueira Campos,2024-10-06,Salgado,Polvilho natural,440,26.4
+145,Siqueira Campos,2024-10-06,Salgado,Pastelzinho de queijo,100,6.0
+146,Siqueira Campos,2024-10-06,Salgado,Polvilho queijo,340,20.4
+147,Siqueira Campos,2024-10-06,Doce,Canudinho nutella,220,17.6
+148,Siqueira Campos,2024-10-06,Doce,Topless,460,27.6
+149,Siqueira Campos,2024-10-06,Doce,Palmier,480,33.6
+149,Siqueira Campos,2024-10-06,Doce,Nata,400,24.0
+149,Siqueira Campos,2024-10-06,Doce,Mil folhas,100,7.0
+150,Siqueira Campos,2024-10-06,Doce,Champanhota canela,160,9.6
+150,Siqueira Campos,2024-10-06,Doce,Mentirinha,120,7.2
+151,Siqueira Campos,2024-10-06,Doce,Champanhota,340,20.4
+152,Siqueira Campos,2024-10-06,Salgado,Disquete,420,29.4
+153,Siqueira Campos,2024-10-06,Salgado,Truton,1101,66.06
+153,Siqueira Campos,2024-10-06,Salgado,Polvilho queijo,100,6.0
+154,Siqueira Campos,2024-10-06,Salgado,Peito de peru,480,28.8
+154,Siqueira Campos,2024-10-06,Salgado,Disquete,260,18.2
+155,Siqueira Campos,2024-10-06,Doce,Mil folhas,200,14.0
+156,Siqueira Campos,2024-10-06,Salgado,Disquete,120,8.4
+157,Jardim de Alah,2024-10-07,Doce,Leque,340,23.8
+158,Jardim de Alah,2024-10-07,Salgado,Polvilho natural,1951,117.06
+159,Jardim de Alah,2024-10-07,Salgado,Bolinha de bacon,440,26.4
+160,Jardim de Alah,2024-10-07,Salgado,Bolinha de bacon,180,10.8
+160,Jardim de Alah,2024-10-07,Salgado,Bolinha de bacon,340,20.4
+161,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,1101,66.06
+161,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,420,25.2
+161,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,320,19.2
+162,Jardim de Alah,2024-10-07,Salgado,Polvilho queijo,340,20.4
+162,Jardim de Alah,2024-10-07,Salgado,Peito de peru,100,6.0
+162,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,300,18.0
+162,Jardim de Alah,2024-10-07,Salgado,Truton,140,8.4
+162,Jardim de Alah,2024-10-07,Salgado,Bolinha de bacon,701,42.06
+163,Jardim de Alah,2024-10-07,Doce,Canudinho chocolate,460,32.2
+163,Jardim de Alah,2024-10-07,Doce,Rosca da penha,220,13.2
+163,Jardim de Alah,2024-10-07,Doce,Vaidosa,551,33.06
+163,Jardim de Alah,2024-10-07,Doce,Palmier canela,320,22.4
+163,Jardim de Alah,2024-10-07,Doce,Palmier canela,100,7.0
+164,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,480,28.8
+164,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,1701,102.06
+165,Jardim de Alah,2024-10-07,Salgado,Truton,180,10.8
+166,Jardim de Alah,2024-10-07,Salgado,Bolinha de bacon,480,28.8
+167,Jardim de Alah,2024-10-07,Salgado,Polvilho natural,300,18.0
+168,Jardim de Alah,2024-10-07,Doce,Brinquinho,1551,93.06
+168,Jardim de Alah,2024-10-07,Doce,Champanhota,380,22.8
+168,Jardim de Alah,2024-10-07,Doce,Casadinho doce de leite,100,7.0
+168,Jardim de Alah,2024-10-07,Doce,Nata,320,19.2
+169,Jardim de Alah,2024-10-07,Salgado,Polvilho queijo,380,22.8
+169,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,180,10.8
+170,Jardim de Alah,2024-10-07,Doce,Casadinho doce de leite,480,33.6
+171,Jardim de Alah,2024-10-07,Salgado,Truton,260,15.6
+172,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,120,7.2
+173,Jardim de Alah,2024-10-07,Salgado,Truton,160,9.6
+173,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,300,18.0
+173,Jardim de Alah,2024-10-07,Salgado,Polvilho natural,140,8.4
+174,Jardim de Alah,2024-10-07,Salgado,Disquete,340,23.8
+175,Jardim de Alah,2024-10-07,Salgado,Truton,360,21.6
+175,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,400,24.0
+175,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,200,12.0
+175,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,1401,84.06
+175,Jardim de Alah,2024-10-07,Salgado,Polvilho queijo,180,10.8
+175,Jardim de Alah,2024-10-07,Salgado,Disquete,220,15.4
+175,Jardim de Alah,2024-10-07,Salgado,Polvilho queijo,200,12.0
+176,Jardim de Alah,2024-10-07,Salgado,Truton,160,9.6
+176,Jardim de Alah,2024-10-07,Salgado,Truton,340,20.4
+177,Jardim de Alah,2024-10-07,Doce,Champanhota,200,12.0
+178,Jardim de Alah,2024-10-07,Salgado,Polvilho queijo,851,51.06
+178,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,340,20.4
+179,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,340,20.4
+179,Jardim de Alah,2024-10-07,Salgado,Disquete,300,21.0
+179,Jardim de Alah,2024-10-07,Salgado,Bolinha de bacon,480,28.8
+179,Jardim de Alah,2024-10-07,Salgado,Truton,100,6.0
+179,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,951,57.06
+179,Jardim de Alah,2024-10-07,Salgado,Polvilho natural,220,13.2
+179,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,140,8.4
+179,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,551,33.06
+180,Jardim de Alah,2024-10-07,Doce,Leque,240,16.8
+181,Jardim de Alah,2024-10-07,Doce,Topless,360,21.6
+182,Jardim de Alah,2024-10-07,Doce,Nata,480,28.8
+182,Jardim de Alah,2024-10-07,Doce,Brinquinho,280,16.8
+183,Jardim de Alah,2024-10-07,Salgado,Polvilho natural,200,12.0
+183,Jardim de Alah,2024-10-07,Salgado,Pastelzinho de queijo,240,14.4
+183,Jardim de Alah,2024-10-07,Salgado,Polvilho natural,480,28.8
+184,Jardim de Alah,2024-10-07,Salgado,Polvilho cebola,400,24.0
+185,Jardim de Alah,2024-10-07,Doce,Leite condensado,100,6.0
+185,Jardim de Alah,2024-10-07,Doce,Canudinho nutella,1751,140.08
+185,Jardim de Alah,2024-10-07,Doce,Canudinho nutella,420,33.6
+185,Jardim de Alah,2024-10-07,Doce,Vaidosa,280,16.8
+185,Jardim de Alah,2024-10-07,Doce,Canudinho chocolate,420,29.4
+185,Jardim de Alah,2024-10-07,Doce,Vaidosa,380,22.8
+185,Jardim de Alah,2024-10-07,Doce,Vaidosa,100,6.0
+186,Jardim de Alah,2024-10-07,Doce,Leque,440,30.8
+187,Jardim de Alah,2024-10-07,Doce,Rosca da penha,320,19.2
+187,Jardim de Alah,2024-10-07,Doce,Leite condensado,380,22.8
+188,Jardim de Alah,2024-10-07,Salgado,Disquete,100,7.0
+189,Jardim de Alah,2024-10-07,Doce,Palmier canela,380,26.6
+190,Jardim de Alah,2024-10-07,Salgado,Truton,160,9.6
+191,Nossa senhora da paz,2024-10-11,Salgado,Disquete,180,12.6
+192,Nossa senhora da paz,2024-10-11,Doce,Champanhota,400,24.0
+193,Nossa senhora da paz,2024-10-11,Salgado,Disquete,380,26.6
+194,Nossa senhora da paz,2024-10-11,Salgado,Truton,260,15.6
+195,Nossa senhora da paz,2024-10-11,Salgado,Bolinha de bacon,100,6.0
+195,Nossa senhora da paz,2024-10-11,Salgado,Peito de peru,200,12.0
+196,Nossa senhora da paz,2024-10-11,Salgado,Disquete,120,8.4
+197,Nossa senhora da paz,2024-10-11,Salgado,Bolinha de bacon,120,7.2
+197,Nossa senhora da paz,2024-10-11,Salgado,Bolinha de bacon,1851,111.06
+197,Nossa senhora da paz,2024-10-11,Salgado,Polvilho queijo,140,8.4
+198,Nossa senhora da paz,2024-10-11,Doce,Canudinho nutella,1201,96.08
+199,Nossa senhora da paz,2024-10-11,Doce,Palmier,100,7.0
+199,Nossa senhora da paz,2024-10-11,Doce,Brinquinho,380,22.8
+200,Nossa senhora da paz,2024-10-11,Salgado,Polvilho natural,160,9.6
+200,Nossa senhora da paz,2024-10-11,Salgado,Pastelzinho de queijo,160,9.6
+201,Nossa senhora da paz,2024-10-11,Salgado,Polvilho queijo,220,13.2
+202,Nossa senhora da paz,2024-10-11,Doce,Leite condensado,160,9.6
+202,Nossa senhora da paz,2024-10-11,Doce,Leque,340,23.8
+202,Nossa senhora da paz,2024-10-11,Doce,Rosca da penha,1451,87.06
+203,Nossa senhora da paz,2024-10-11,Doce,Nata com folhos,200,12.0
+203,Nossa senhora da paz,2024-10-11,Doce,Leite condensado,400,24.0
+203,Nossa senhora da paz,2024-10-11,Doce,Nata,1751,105.06
+204,Nossa senhora da paz,2024-10-11,Doce,Mil folhas,340,23.8
+204,Nossa senhora da paz,2024-10-11,Doce,Casadinho goiaba,100,7.0
+205,Nossa senhora da paz,2024-10-11,Salgado,Peito de peru,380,22.8
+205,Nossa senhora da paz,2024-10-11,Salgado,Bolinha de bacon,360,21.6
+206,Nossa senhora da paz,2024-10-11,Salgado,Truton,180,10.8
+207,Nossa senhora da paz,2024-10-11,Doce,Palmier,420,29.4
+207,Nossa senhora da paz,2024-10-11,Doce,Rosca da penha,1351,81.06
+208,Nossa senhora da paz,2024-10-11,Salgado,Disquete,280,19.6
+209,Nossa senhora da paz,2024-10-11,Doce,Champanhota,1551,93.06
+209,Nossa senhora da paz,2024-10-11,Doce,Topless,340,20.4
+209,Nossa senhora da paz,2024-10-11,Doce,Mentirinha,280,16.8
+209,Nossa senhora da paz,2024-10-11,Doce,Casadinho doce de leite,300,21.0
+209,Nossa senhora da paz,2024-10-11,Doce,Casadinho goiaba,480,33.6
+209,Nossa senhora da paz,2024-10-11,Doce,Champanhota canela,120,7.2
+209,Nossa senhora da paz,2024-10-11,Doce,Champanhota,240,14.4
+209,Nossa senhora da paz,2024-10-11,Doce,Nata com folhos,400,24.0
+209,Nossa senhora da paz,2024-10-11,Doce,Nata,140,8.4
+209,Nossa senhora da paz,2024-10-11,Doce,Vaidosa,160,9.6
+210,Nossa senhora da paz,2024-10-11,Doce,Vaidosa,320,19.2
+211,Nossa senhora da paz,2024-10-11,Doce,Mil folhas,140,9.8
+211,Nossa senhora da paz,2024-10-11,Doce,Casadinho doce de leite,380,26.6
+212,Nossa senhora da paz,2024-10-11,Doce,Canudinho chocolate,240,16.8
+212,Nossa senhora da paz,2024-10-11,Doce,Casadinho goiaba,1001,70.07
+213,Nossa senhora da paz,2024-10-11,Doce,Leque,160,11.2
+214,Nossa senhora da paz,2024-10-11,Doce,Leite condensado,120,7.2
+214,Nossa senhora da paz,2024-10-11,Doce,Casadinho doce de leite,220,15.4
+214,Nossa senhora da paz,2024-10-11,Doce,Palmier canela,100,7.0
+215,Nossa senhora da paz,2024-10-11,Doce,Canudinho nutella,140,11.2
+215,Nossa senhora da paz,2024-10-11,Doce,Topless,340,20.4
+216,Nossa senhora da paz,2024-10-11,Salgado,Pastelzinho de queijo,220,13.2
+216,Nossa senhora da paz,2024-10-11,Salgado,Pastelzinho de queijo,180,10.8
+217,Nossa senhora da paz,2024-10-11,Doce,Canudinho chocolate,1601,112.07
+218,Nossa senhora da paz,2024-10-11,Doce,Palmier canela,140,9.8
+219,Nossa senhora da paz,2024-10-11,Doce,Champanhota,551,33.06
+220,Nossa senhora da paz,2024-10-11,Doce,Leque,100,7.0
+221,Nossa senhora da paz,2024-10-11,Doce,Nata com folhos,280,16.8
+222,Nossa senhora da paz,2024-10-11,Salgado,Polvilho queijo,100,6.0
+223,Nossa senhora da paz,2024-10-11,Doce,Nata com folhos,180,10.8
+223,Nossa senhora da paz,2024-10-11,Doce,Nata,280,16.8
+224,Nossa senhora da paz,2024-10-11,Salgado,Peito de peru,501,30.06
+224,Nossa senhora da paz,2024-10-11,Salgado,Pastelzinho de queijo,320,19.2
+225,Largo do Machado,2024-10-12,Doce,Vaidosa,220,13.2
+226,Largo do Machado,2024-10-12,Salgado,Polvilho cebola,140,8.4
+227,Largo do Machado,2024-10-12,Doce,Leque,320,22.4
+228,Largo do Machado,2024-10-12,Salgado,Peito de peru,951,57.06
+228,Largo do Machado,2024-10-12,Salgado,Polvilho cebola,260,15.6
+229,Largo do Machado,2024-10-12,Salgado,Polvilho queijo,300,18.0
+230,Largo do Machado,2024-10-12,Doce,Nata,240,14.4
+230,Largo do Machado,2024-10-12,Doce,Mil folhas,280,19.6
+231,Largo do Machado,2024-10-12,Salgado,Polvilho natural,240,14.4
+232,Largo do Machado,2024-10-12,Doce,Rosca da penha,360,21.6
+232,Largo do Machado,2024-10-12,Doce,Nata,1351,81.06
+233,Largo do Machado,2024-10-12,Salgado,Polvilho cebola,140,8.4
+234,Largo do Machado,2024-10-12,Salgado,Polvilho queijo,120,7.2
+235,Largo do Machado,2024-10-12,Doce,Topless,160,9.6
+235,Largo do Machado,2024-10-12,Doce,Leque,360,25.2
+236,Largo do Machado,2024-10-12,Doce,Palmier,380,26.6
+237,Largo do Machado,2024-10-12,Salgado,Polvilho queijo,180,10.8
+238,Largo do Machado,2024-10-12,Doce,Palmier,180,12.6
+239,Largo do Machado,2024-10-12,Doce,Nata,260,15.6
+240,Largo do Machado,2024-10-12,Salgado,Polvilho queijo,140,8.4
+241,Largo do Machado,2024-10-12,Doce,Canudinho nutella,100,8.0
+242,Largo do Machado,2024-10-12,Salgado,Polvilho queijo,160,9.6
+243,Largo do Machado,2024-10-12,Salgado,Peito de peru,280,16.8
+243,Largo do Machado,2024-10-12,Salgado,Peito de peru,460,27.6
+244,Largo do Machado,2024-10-12,Doce,Vaidosa,100,6.0
+244,Largo do Machado,2024-10-12,Doce,Vaidosa,1701,102.06
+244,Largo do Machado,2024-10-12,Doce,Mentirinha,340,20.4
+245,Largo do Machado,2024-10-12,Doce,Topless,100,6.0
+246,Largo do Machado,2024-10-12,Doce,Champanhota canela,180,10.8
+247,Largo do Machado,2024-10-12,Doce,Champanhota,200,12.0
+247,Largo do Machado,2024-10-12,Doce,Mil folhas,180,12.6
+248,Largo do Machado,2024-10-12,Salgado,Truton,400,24.0
+249,Largo do Machado,2024-10-12,Salgado,Peito de peru,180,10.8
+249,Largo do Machado,2024-10-12,Salgado,Pastelzinho de queijo,420,25.2
+250,Largo do Machado,2024-10-12,Doce,Rosca da penha,340,20.4
+250,Largo do Machado,2024-10-12,Doce,Vaidosa,220,13.2
+251,Largo do Machado,2024-10-12,Doce,Champanhota,400,24.0
+251,Largo do Machado,2024-10-12,Doce,Casadinho doce de leite,280,19.6
+251,Largo do Machado,2024-10-12,Doce,Casadinho goiaba,460,32.2
+252,Largo do Machado,2024-10-12,Salgado,Polvilho natural,120,7.2
+253,Largo do Machado,2024-10-12,Salgado,Pastelzinho de queijo,480,28.8
+254,Siqueira Campos,2024-10-13,Salgado,Truton,300,18.0
+254,Siqueira Campos,2024-10-13,Salgado,Truton,140,8.4
+254,Siqueira Campos,2024-10-13,Salgado,Bolinha de bacon,120,7.2
+255,Siqueira Campos,2024-10-13,Salgado,Truton,100,6.0
+256,Siqueira Campos,2024-10-13,Doce,Palmier,100,7.0
+257,Siqueira Campos,2024-10-13,Salgado,Bolinha de bacon,220,13.2
+258,Siqueira Campos,2024-10-13,Doce,Casadinho doce de leite,380,26.6
+259,Siqueira Campos,2024-10-13,Doce,Leite condensado,120,7.2
+259,Siqueira Campos,2024-10-13,Doce,Palmier canela,200,14.0
+259,Siqueira Campos,2024-10-13,Doce,Nata com folhos,380,22.8
+260,Siqueira Campos,2024-10-13,Salgado,Bolinha de bacon,180,10.8
+261,Siqueira Campos,2024-10-13,Doce,Canudinho chocolate,420,29.4
+261,Siqueira Campos,2024-10-13,Doce,Palmier canela,340,23.8
+262,Siqueira Campos,2024-10-13,Salgado,Polvilho queijo,140,8.4
+263,Siqueira Campos,2024-10-13,Salgado,Peito de peru,400,24.0
+264,Siqueira Campos,2024-10-13,Doce,Palmier canela,160,11.2
+264,Siqueira Campos,2024-10-13,Doce,Rosca da penha,460,27.6
+265,Siqueira Campos,2024-10-13,Salgado,Polvilho natural,260,15.6
+266,Siqueira Campos,2024-10-13,Salgado,Pastelzinho de queijo,1451,87.06
+266,Siqueira Campos,2024-10-13,Salgado,Truton,240,14.4
+267,Siqueira Campos,2024-10-13,Doce,Palmier,460,32.2
+268,Siqueira Campos,2024-10-13,Doce,Mil folhas,340,23.8
+268,Siqueira Campos,2024-10-13,Doce,Champanhota canela,440,26.4
+268,Siqueira Campos,2024-10-13,Doce,Leite condensado,360,21.6
+269,Siqueira Campos,2024-10-13,Doce,Brinquinho,300,18.0
+270,Siqueira Campos,2024-10-13,Doce,Leite condensado,360,21.6
+270,Siqueira Campos,2024-10-13,Doce,Palmier canela,220,15.4
+271,Siqueira Campos,2024-10-13,Doce,Mil folhas,180,12.6
+272,Siqueira Campos,2024-10-13,Doce,Champanhota,260,15.6
+272,Siqueira Campos,2024-10-13,Doce,Champanhota canela,260,15.6
+272,Siqueira Campos,2024-10-13,Doce,Casadinho doce de leite,240,16.8
+272,Siqueira Campos,2024-10-13,Doce,Canudinho nutella,140,11.2
+273,Siqueira Campos,2024-10-13,Doce,Mil folhas,120,8.4
+273,Siqueira Campos,2024-10-13,Doce,Casadinho doce de leite,380,26.6
+274,Siqueira Campos,2024-10-13,Doce,Mentirinha,440,26.4
+275,Siqueira Campos,2024-10-13,Doce,Mentirinha,320,19.2
+275,Siqueira Campos,2024-10-13,Doce,Mentirinha,160,9.6
+276,Siqueira Campos,2024-10-13,Doce,Brinquinho,320,19.2
+276,Siqueira Campos,2024-10-13,Doce,Vaidosa,360,21.6
+277,Siqueira Campos,2024-10-13,Doce,Casadinho doce de leite,380,26.6
+277,Siqueira Campos,2024-10-13,Doce,Rosca da penha,160,9.6
+278,Siqueira Campos,2024-10-13,Salgado,Bolinha de bacon,260,15.6
+278,Siqueira Campos,2024-10-13,Salgado,Pastelzinho de queijo,260,15.6
+279,Siqueira Campos,2024-10-13,Salgado,Polvilho cebola,260,15.6
+279,Siqueira Campos,2024-10-13,Salgado,Peito de peru,140,8.4
+280,Siqueira Campos,2024-10-13,Salgado,Polvilho cebola,480,28.8
+280,Siqueira Campos,2024-10-13,Salgado,Polvilho natural,120,7.2
+281,Siqueira Campos,2024-10-13,Salgado,Polvilho cebola,460,27.6
+282,Jardim de Alah,2024-10-14,Salgado,Bolinha de bacon,420,25.2
+282,Jardim de Alah,2024-10-14,Salgado,Bolinha de bacon,420,25.2
+283,Jardim de Alah,2024-10-14,Salgado,Disquete,140,9.8
+284,Jardim de Alah,2024-10-14,Salgado,Peito de peru,100,6.0
+284,Jardim de Alah,2024-10-14,Salgado,Peito de peru,751,45.06
+285,Jardim de Alah,2024-10-14,Doce,Topless,1851,111.06
+285,Jardim de Alah,2024-10-14,Doce,Leque,801,56.07
+286,Jardim de Alah,2024-10-14,Salgado,Peito de peru,300,18.0
+286,Jardim de Alah,2024-10-14,Salgado,Truton,160,9.6
+287,Jardim de Alah,2024-10-14,Salgado,Polvilho natural,440,26.4
+287,Jardim de Alah,2024-10-14,Salgado,Disquete,1151,80.57
+288,Jardim de Alah,2024-10-14,Salgado,Peito de peru,480,28.8
+288,Jardim de Alah,2024-10-14,Salgado,Polvilho natural,260,15.6
+288,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,340,20.4
+288,Jardim de Alah,2024-10-14,Salgado,Truton,320,19.2
+289,Jardim de Alah,2024-10-14,Salgado,Polvilho natural,300,18.0
+290,Jardim de Alah,2024-10-14,Doce,Leque,480,33.6
+290,Jardim de Alah,2024-10-14,Doce,Brinquinho,320,19.2
+291,Jardim de Alah,2024-10-14,Salgado,Polvilho cebola,160,9.6
+292,Jardim de Alah,2024-10-14,Doce,Rosca da penha,140,8.4
+292,Jardim de Alah,2024-10-14,Doce,Rosca da penha,300,18.0
+293,Jardim de Alah,2024-10-14,Salgado,Truton,440,26.4
+293,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,180,10.8
+293,Jardim de Alah,2024-10-14,Salgado,Polvilho queijo,1851,111.06
+294,Jardim de Alah,2024-10-14,Salgado,Polvilho queijo,1451,87.06
+295,Jardim de Alah,2024-10-14,Salgado,Bolinha de bacon,180,10.8
+296,Jardim de Alah,2024-10-14,Salgado,Disquete,320,22.4
+297,Jardim de Alah,2024-10-14,Doce,Palmier,651,45.57
+297,Jardim de Alah,2024-10-14,Doce,Mentirinha,200,12.0
+298,Jardim de Alah,2024-10-14,Salgado,Bolinha de bacon,100,6.0
+298,Jardim de Alah,2024-10-14,Salgado,Polvilho cebola,951,57.06
+298,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,340,20.4
+299,Jardim de Alah,2024-10-14,Salgado,Polvilho natural,1951,117.06
+300,Jardim de Alah,2024-10-14,Doce,Mil folhas,100,7.0
+300,Jardim de Alah,2024-10-14,Doce,Vaidosa,480,28.8
+300,Jardim de Alah,2024-10-14,Doce,Nata,420,25.2
+301,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,501,30.06
+301,Jardim de Alah,2024-10-14,Salgado,Truton,160,9.6
+301,Jardim de Alah,2024-10-14,Salgado,Disquete,340,23.8
+301,Jardim de Alah,2024-10-14,Salgado,Peito de peru,140,8.4
+301,Jardim de Alah,2024-10-14,Salgado,Peito de peru,480,28.8
+301,Jardim de Alah,2024-10-14,Salgado,Disquete,380,26.6
+301,Jardim de Alah,2024-10-14,Salgado,Polvilho cebola,100,6.0
+301,Jardim de Alah,2024-10-14,Salgado,Polvilho natural,400,24.0
+301,Jardim de Alah,2024-10-14,Salgado,Polvilho queijo,460,27.6
+301,Jardim de Alah,2024-10-14,Salgado,Polvilho cebola,220,13.2
+302,Jardim de Alah,2024-10-14,Doce,Mil folhas,420,29.4
+302,Jardim de Alah,2024-10-14,Doce,Rosca da penha,220,13.2
+303,Jardim de Alah,2024-10-14,Salgado,Peito de peru,180,10.8
+303,Jardim de Alah,2024-10-14,Salgado,Peito de peru,280,16.8
+303,Jardim de Alah,2024-10-14,Salgado,Polvilho queijo,200,12.0
+303,Jardim de Alah,2024-10-14,Salgado,Peito de peru,100,6.0
+303,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,480,28.8
+303,Jardim de Alah,2024-10-14,Salgado,Disquete,160,11.2
+303,Jardim de Alah,2024-10-14,Salgado,Peito de peru,280,16.8
+303,Jardim de Alah,2024-10-14,Salgado,Disquete,260,18.2
+303,Jardim de Alah,2024-10-14,Salgado,Polvilho cebola,240,14.4
+303,Jardim de Alah,2024-10-14,Salgado,Polvilho queijo,140,8.4
+304,Jardim de Alah,2024-10-14,Doce,Mil folhas,360,25.2
+304,Jardim de Alah,2024-10-14,Doce,Palmier canela,280,19.6
+305,Jardim de Alah,2024-10-14,Doce,Brinquinho,120,7.2
+305,Jardim de Alah,2024-10-14,Doce,Rosca da penha,220,13.2
+305,Jardim de Alah,2024-10-14,Doce,Casadinho goiaba,440,30.8
+305,Jardim de Alah,2024-10-14,Doce,Nata,360,21.6
+306,Jardim de Alah,2024-10-14,Salgado,Polvilho queijo,1451,87.06
+307,Jardim de Alah,2024-10-14,Doce,Casadinho goiaba,200,14.0
+308,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,160,9.6
+309,Jardim de Alah,2024-10-14,Doce,Mil folhas,380,26.6
+310,Jardim de Alah,2024-10-14,Doce,Casadinho doce de leite,120,8.4
+310,Jardim de Alah,2024-10-14,Doce,Nata com folhos,240,14.4
+311,Jardim de Alah,2024-10-14,Salgado,Polvilho natural,240,14.4
+311,Jardim de Alah,2024-10-14,Salgado,Pastelzinho de queijo,300,18.0
+312,Nossa senhora da paz,2024-10-18,Doce,Champanhota,100,6.0
+312,Nossa senhora da paz,2024-10-18,Doce,Mil folhas,460,32.2
+313,Nossa senhora da paz,2024-10-18,Doce,Brinquinho,320,19.2
+313,Nossa senhora da paz,2024-10-18,Doce,Leque,140,9.8
+314,Nossa senhora da paz,2024-10-18,Doce,Canudinho chocolate,360,25.2
+315,Nossa senhora da paz,2024-10-18,Salgado,Polvilho natural,140,8.4
+316,Nossa senhora da paz,2024-10-18,Salgado,Disquete,220,15.4
+316,Nossa senhora da paz,2024-10-18,Salgado,Bolinha de bacon,220,13.2
+316,Nossa senhora da paz,2024-10-18,Salgado,Disquete,951,66.57
+317,Nossa senhora da paz,2024-10-18,Doce,Leque,480,33.6
+317,Nossa senhora da paz,2024-10-18,Doce,Nata com folhos,400,24.0
+318,Nossa senhora da paz,2024-10-18,Doce,Vaidosa,1851,111.06
+319,Nossa senhora da paz,2024-10-18,Doce,Champanhota,360,21.6
+319,Nossa senhora da paz,2024-10-18,Doce,Champanhota,801,48.06
+319,Nossa senhora da paz,2024-10-18,Doce,Leite condensado,360,21.6
+319,Nossa senhora da paz,2024-10-18,Doce,Topless,460,27.6
+319,Nossa senhora da paz,2024-10-18,Doce,Palmier canela,480,33.6
+320,Nossa senhora da paz,2024-10-18,Salgado,Polvilho cebola,440,26.4
+320,Nossa senhora da paz,2024-10-18,Salgado,Polvilho queijo,140,8.4
+320,Nossa senhora da paz,2024-10-18,Salgado,Bolinha de bacon,651,39.06
+321,Nossa senhora da paz,2024-10-18,Doce,Casadinho goiaba,200,14.0
+321,Nossa senhora da paz,2024-10-18,Doce,Casadinho doce de leite,551,38.57
+321,Nossa senhora da paz,2024-10-18,Doce,Mil folhas,460,32.2
+321,Nossa senhora da paz,2024-10-18,Doce,Champanhota canela,1751,105.06
+322,Nossa senhora da paz,2024-10-18,Salgado,Polvilho queijo,601,36.06
+322,Nossa senhora da paz,2024-10-18,Salgado,Truton,1801,108.06
+323,Nossa senhora da paz,2024-10-18,Salgado,Truton,1651,99.06
+324,Nossa senhora da paz,2024-10-18,Doce,Canudinho chocolate,420,29.4
+325,Nossa senhora da paz,2024-10-18,Salgado,Polvilho natural,551,33.06
+325,Nossa senhora da paz,2024-10-18,Salgado,Pastelzinho de queijo,140,8.4
+326,Nossa senhora da paz,2024-10-18,Doce,Canudinho nutella,480,38.4
+326,Nossa senhora da paz,2024-10-18,Doce,Champanhota canela,460,27.6
+327,Nossa senhora da paz,2024-10-18,Salgado,Bolinha de bacon,200,12.0
+328,Nossa senhora da paz,2024-10-18,Salgado,Pastelzinho de queijo,260,15.6
+328,Nossa senhora da paz,2024-10-18,Salgado,Truton,180,10.8
+329,Nossa senhora da paz,2024-10-18,Doce,Palmier canela,380,26.6
+329,Nossa senhora da paz,2024-10-18,Doce,Casadinho doce de leite,1051,73.57
+329,Nossa senhora da paz,2024-10-18,Doce,Topless,160,9.6
+330,Nossa senhora da paz,2024-10-18,Doce,Nata com folhos,480,28.8
+331,Nossa senhora da paz,2024-10-18,Salgado,Peito de peru,320,19.2
+332,Nossa senhora da paz,2024-10-18,Salgado,Polvilho natural,200,12.0
+333,Nossa senhora da paz,2024-10-18,Doce,Nata,300,18.0
+333,Nossa senhora da paz,2024-10-18,Doce,Casadinho doce de leite,140,9.8
+333,Nossa senhora da paz,2024-10-18,Doce,Nata com folhos,340,20.4
+334,Nossa senhora da paz,2024-10-18,Salgado,Peito de peru,260,15.6
+335,Nossa senhora da paz,2024-10-18,Salgado,Disquete,220,15.4
+335,Nossa senhora da paz,2024-10-18,Salgado,Disquete,300,21.0
+336,Nossa senhora da paz,2024-10-18,Doce,Nata,360,21.6
+337,Nossa senhora da paz,2024-10-18,Salgado,Peito de peru,280,16.8
+338,Nossa senhora da paz,2024-10-18,Doce,Palmier,340,23.8
+339,Nossa senhora da paz,2024-10-18,Doce,Casadinho doce de leite,501,35.07
+340,Nossa senhora da paz,2024-10-18,Salgado,Disquete,400,28.0
+340,Nossa senhora da paz,2024-10-18,Salgado,Peito de peru,120,7.2
+341,Nossa senhora da paz,2024-10-18,Doce,Leque,180,12.6
+342,Nossa senhora da paz,2024-10-18,Doce,Palmier canela,260,18.2
+343,Nossa senhora da paz,2024-10-18,Salgado,Peito de peru,320,19.2
+343,Nossa senhora da paz,2024-10-18,Salgado,Polvilho queijo,120,7.2
+343,Nossa senhora da paz,2024-10-18,Salgado,Polvilho queijo,1601,96.06
+344,Nossa senhora da paz,2024-10-18,Salgado,Polvilho natural,420,25.2
+344,Nossa senhora da paz,2024-10-18,Salgado,Polvilho natural,400,24.0
+345,Nossa senhora da paz,2024-10-18,Doce,Palmier canela,1751,122.57
+346,Largo do Machado,2024-10-19,Doce,Champanhota canela,701,42.06
+346,Largo do Machado,2024-10-19,Doce,Mil folhas,280,19.6
+347,Largo do Machado,2024-10-19,Doce,Mil folhas,360,25.2
+347,Largo do Machado,2024-10-19,Doce,Rosca da penha,751,45.06
+348,Largo do Machado,2024-10-19,Salgado,Polvilho queijo,460,27.6
+349,Largo do Machado,2024-10-19,Salgado,Polvilho cebola,320,19.2
+349,Largo do Machado,2024-10-19,Salgado,Pastelzinho de queijo,901,54.06
+350,Largo do Machado,2024-10-19,Doce,Casadinho doce de leite,460,32.2
+351,Largo do Machado,2024-10-19,Doce,Leite condensado,440,26.4
+351,Largo do Machado,2024-10-19,Doce,Nata,300,18.0
+352,Largo do Machado,2024-10-19,Salgado,Polvilho cebola,240,14.4
+352,Largo do Machado,2024-10-19,Salgado,Polvilho queijo,360,21.6
+352,Largo do Machado,2024-10-19,Salgado,Polvilho natural,320,19.2
+352,Largo do Machado,2024-10-19,Salgado,Truton,320,19.2
+353,Largo do Machado,2024-10-19,Salgado,Peito de peru,100,6.0
+353,Largo do Machado,2024-10-19,Salgado,Pastelzinho de queijo,120,7.2
+354,Largo do Machado,2024-10-19,Doce,Topless,200,12.0
+354,Largo do Machado,2024-10-19,Doce,Mentirinha,320,19.2
+354,Largo do Machado,2024-10-19,Doce,Nata com folhos,340,20.4
+354,Largo do Machado,2024-10-19,Doce,Champanhota canela,400,24.0
+354,Largo do Machado,2024-10-19,Doce,Mentirinha,851,51.06
+354,Largo do Machado,2024-10-19,Doce,Vaidosa,300,18.0
+354,Largo do Machado,2024-10-19,Doce,Canudinho nutella,400,32.0
+355,Largo do Machado,2024-10-19,Salgado,Polvilho cebola,180,10.8
+356,Largo do Machado,2024-10-19,Doce,Vaidosa,140,8.4
+356,Largo do Machado,2024-10-19,Doce,Vaidosa,460,27.6
+357,Largo do Machado,2024-10-19,Doce,Champanhota canela,120,7.2
+358,Largo do Machado,2024-10-19,Salgado,Polvilho cebola,200,12.0
+359,Largo do Machado,2024-10-19,Salgado,Truton,480,28.8
+360,Largo do Machado,2024-10-19,Doce,Vaidosa,120,7.2
+361,Largo do Machado,2024-10-19,Salgado,Polvilho natural,360,21.6
+361,Largo do Machado,2024-10-19,Salgado,Peito de peru,280,16.8
+361,Largo do Machado,2024-10-19,Salgado,Truton,200,12.0
+362,Largo do Machado,2024-10-19,Salgado,Peito de peru,1501,90.06
+363,Largo do Machado,2024-10-19,Salgado,Polvilho cebola,420,25.2
+363,Largo do Machado,2024-10-19,Salgado,Bolinha de bacon,400,24.0
+364,Largo do Machado,2024-10-19,Salgado,Peito de peru,300,18.0
+365,Largo do Machado,2024-10-19,Doce,Nata com folhos,320,19.2
+366,Siqueira Campos,2024-10-20,Doce,Nata com folhos,360,21.6
+367,Siqueira Campos,2024-10-20,Doce,Canudinho chocolate,460,32.2
+368,Siqueira Campos,2024-10-20,Salgado,Polvilho queijo,1201,72.06
+368,Siqueira Campos,2024-10-20,Salgado,Bolinha de bacon,480,28.8
+369,Siqueira Campos,2024-10-20,Doce,Vaidosa,340,20.4
+369,Siqueira Campos,2024-10-20,Doce,Leque,240,16.8
+369,Siqueira Campos,2024-10-20,Doce,Nata,160,9.6
+369,Siqueira Campos,2024-10-20,Doce,Champanhota canela,200,12.0
+370,Siqueira Campos,2024-10-20,Salgado,Peito de peru,220,13.2
+371,Siqueira Campos,2024-10-20,Salgado,Disquete,280,19.6
+372,Siqueira Campos,2024-10-20,Doce,Rosca da penha,160,9.6
+373,Siqueira Campos,2024-10-20,Salgado,Polvilho cebola,380,22.8
+374,Siqueira Campos,2024-10-20,Doce,Mentirinha,1301,78.06
+374,Siqueira Campos,2024-10-20,Doce,Topless,1851,111.06
+374,Siqueira Campos,2024-10-20,Doce,Canudinho chocolate,100,7.0
+375,Siqueira Campos,2024-10-20,Doce,Vaidosa,901,54.06
+376,Siqueira Campos,2024-10-20,Salgado,Polvilho cebola,300,18.0
+376,Siqueira Campos,2024-10-20,Salgado,Pastelzinho de queijo,280,16.8
+377,Siqueira Campos,2024-10-20,Salgado,Bolinha de bacon,380,22.8
+378,Siqueira Campos,2024-10-20,Salgado,Polvilho cebola,180,10.8
+379,Siqueira Campos,2024-10-20,Salgado,Disquete,420,29.4
+380,Siqueira Campos,2024-10-20,Doce,Leite condensado,460,27.6
+380,Siqueira Campos,2024-10-20,Doce,Champanhota canela,380,22.8
+381,Siqueira Campos,2024-10-20,Salgado,Polvilho queijo,180,10.8
+381,Siqueira Campos,2024-10-20,Salgado,Truton,240,14.4
+381,Siqueira Campos,2024-10-20,Salgado,Disquete,100,7.0
+382,Siqueira Campos,2024-10-20,Salgado,Polvilho cebola,200,12.0
+383,Siqueira Campos,2024-10-20,Doce,Nata com folhos,320,19.2
+383,Siqueira Campos,2024-10-20,Doce,Champanhota canela,180,10.8
+383,Siqueira Campos,2024-10-20,Doce,Rosca da penha,340,20.4
+384,Jardim de Alah,2024-10-21,Doce,Leque,200,14.0
+384,Jardim de Alah,2024-10-21,Doce,Palmier,440,30.8
+385,Jardim de Alah,2024-10-21,Doce,Champanhota canela,420,25.2
+386,Jardim de Alah,2024-10-21,Doce,Nata,1301,78.06
+386,Jardim de Alah,2024-10-21,Doce,Champanhota,440,26.4
+386,Jardim de Alah,2024-10-21,Doce,Champanhota,400,24.0
+387,Jardim de Alah,2024-10-21,Doce,Nata,340,20.4
+388,Jardim de Alah,2024-10-21,Salgado,Peito de peru,160,9.6
+389,Jardim de Alah,2024-10-21,Salgado,Polvilho natural,260,15.6
+389,Jardim de Alah,2024-10-21,Salgado,Disquete,200,14.0
+390,Jardim de Alah,2024-10-21,Salgado,Peito de peru,220,13.2
+391,Jardim de Alah,2024-10-21,Doce,Champanhota canela,260,15.6
+392,Jardim de Alah,2024-10-21,Salgado,Polvilho queijo,460,27.6
+392,Jardim de Alah,2024-10-21,Salgado,Polvilho queijo,240,14.4
+392,Jardim de Alah,2024-10-21,Salgado,Peito de peru,160,9.6
+393,Jardim de Alah,2024-10-21,Doce,Nata com folhos,360,21.6
+394,Jardim de Alah,2024-10-21,Salgado,Polvilho natural,260,15.6
+395,Jardim de Alah,2024-10-21,Doce,Leque,200,14.0
+395,Jardim de Alah,2024-10-21,Doce,Champanhota canela,100,6.0
+395,Jardim de Alah,2024-10-21,Doce,Champanhota,480,28.8
+396,Jardim de Alah,2024-10-21,Salgado,Polvilho queijo,160,9.6
+397,Jardim de Alah,2024-10-21,Doce,Champanhota,260,15.6
+397,Jardim de Alah,2024-10-21,Doce,Canudinho chocolate,420,29.4
+398,Jardim de Alah,2024-10-21,Salgado,Truton,400,24.0
+398,Jardim de Alah,2024-10-21,Salgado,Bolinha de bacon,100,6.0
+398,Jardim de Alah,2024-10-21,Salgado,Polvilho cebola,320,19.2
+399,Jardim de Alah,2024-10-21,Doce,Rosca da penha,140,8.4
+400,Jardim de Alah,2024-10-21,Doce,Canudinho chocolate,120,8.4
+401,Jardim de Alah,2024-10-21,Salgado,Pastelzinho de queijo,440,26.4
+402,Jardim de Alah,2024-10-21,Salgado,Bolinha de bacon,360,21.6
+402,Jardim de Alah,2024-10-21,Salgado,Truton,480,28.8
+403,Jardim de Alah,2024-10-21,Salgado,Peito de peru,100,6.0
+403,Jardim de Alah,2024-10-21,Salgado,Disquete,160,11.2
+403,Jardim de Alah,2024-10-21,Salgado,Disquete,280,19.6
+403,Jardim de Alah,2024-10-21,Salgado,Polvilho queijo,420,25.2
+404,Jardim de Alah,2024-10-21,Doce,Nata,420,25.2
+404,Jardim de Alah,2024-10-21,Doce,Leque,260,18.2
+405,Jardim de Alah,2024-10-21,Salgado,Disquete,280,19.6
+405,Jardim de Alah,2024-10-21,Salgado,Disquete,320,22.4
+406,Jardim de Alah,2024-10-21,Doce,Palmier,380,26.6
+406,Jardim de Alah,2024-10-21,Doce,Topless,1951,117.06
+406,Jardim de Alah,2024-10-21,Doce,Casadinho goiaba,240,16.8
+406,Jardim de Alah,2024-10-21,Doce,Palmier,380,26.6
+407,Jardim de Alah,2024-10-21,Doce,Rosca da penha,220,13.2
+407,Jardim de Alah,2024-10-21,Doce,Nata com folhos,460,27.6
+408,Jardim de Alah,2024-10-21,Salgado,Disquete,340,23.8
+408,Jardim de Alah,2024-10-21,Salgado,Pastelzinho de queijo,380,22.8
+409,Jardim de Alah,2024-10-21,Salgado,Bolinha de bacon,240,14.4
+410,Jardim de Alah,2024-10-21,Doce,Nata com folhos,1851,111.06
+411,Nossa senhora da paz,2024-10-25,Doce,Canudinho chocolate,120,8.4
+411,Nossa senhora da paz,2024-10-25,Doce,Casadinho goiaba,420,29.4
+412,Nossa senhora da paz,2024-10-25,Salgado,Polvilho cebola,240,14.4
+413,Nossa senhora da paz,2024-10-25,Doce,Nata,280,16.8
+414,Nossa senhora da paz,2024-10-25,Doce,Champanhota,480,28.8
+414,Nossa senhora da paz,2024-10-25,Doce,Topless,420,25.2
+415,Nossa senhora da paz,2024-10-25,Doce,Champanhota,460,27.6
+415,Nossa senhora da paz,2024-10-25,Doce,Nata com folhos,1501,90.06
+415,Nossa senhora da paz,2024-10-25,Doce,Leite condensado,360,21.6
+415,Nossa senhora da paz,2024-10-25,Doce,Casadinho doce de leite,160,11.2
+416,Nossa senhora da paz,2024-10-25,Doce,Vaidosa,340,20.4
+417,Nossa senhora da paz,2024-10-25,Doce,Topless,360,21.6
+418,Nossa senhora da paz,2024-10-25,Salgado,Polvilho natural,300,18.0
+419,Nossa senhora da paz,2024-10-25,Doce,Nata,380,22.8
+420,Nossa senhora da paz,2024-10-25,Salgado,Polvilho cebola,300,18.0
+420,Nossa senhora da paz,2024-10-25,Salgado,Polvilho queijo,140,8.4
+420,Nossa senhora da paz,2024-10-25,Salgado,Polvilho cebola,240,14.4
+420,Nossa senhora da paz,2024-10-25,Salgado,Disquete,220,15.4
+421,Nossa senhora da paz,2024-10-25,Salgado,Peito de peru,380,22.8
+422,Nossa senhora da paz,2024-10-25,Doce,Brinquinho,180,10.8
+422,Nossa senhora da paz,2024-10-25,Doce,Palmier,200,14.0
+422,Nossa senhora da paz,2024-10-25,Doce,Casadinho doce de leite,380,26.6
+423,Nossa senhora da paz,2024-10-25,Doce,Palmier,280,19.6
+423,Nossa senhora da paz,2024-10-25,Doce,Champanhota,480,28.8
+424,Nossa senhora da paz,2024-10-25,Salgado,Disquete,380,26.6
+424,Nossa senhora da paz,2024-10-25,Salgado,Bolinha de bacon,460,27.6
+425,Nossa senhora da paz,2024-10-25,Doce,Rosca da penha,140,8.4
+425,Nossa senhora da paz,2024-10-25,Doce,Champanhota canela,1951,117.06
+425,Nossa senhora da paz,2024-10-25,Doce,Casadinho goiaba,400,28.0
+425,Nossa senhora da paz,2024-10-25,Doce,Mil folhas,120,8.4
+425,Nossa senhora da paz,2024-10-25,Doce,Champanhota,551,33.06
+425,Nossa senhora da paz,2024-10-25,Doce,Canudinho chocolate,180,12.6
+426,Nossa senhora da paz,2024-10-25,Doce,Canudinho nutella,220,17.6
+427,Nossa senhora da paz,2024-10-25,Doce,Canudinho nutella,140,11.2
+427,Nossa senhora da paz,2024-10-25,Doce,Mil folhas,440,30.8
+428,Nossa senhora da paz,2024-10-25,Salgado,Peito de peru,440,26.4
+429,Largo do Machado,2024-10-26,Doce,Leite condensado,200,12.0
+429,Largo do Machado,2024-10-26,Doce,Mil folhas,280,19.6
+430,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,100,6.0
+430,Largo do Machado,2024-10-26,Salgado,Polvilho natural,300,18.0
+431,Largo do Machado,2024-10-26,Doce,Champanhota,180,10.8
+431,Largo do Machado,2024-10-26,Doce,Topless,140,8.4
+432,Largo do Machado,2024-10-26,Salgado,Polvilho cebola,120,7.2
+433,Largo do Machado,2024-10-26,Doce,Topless,100,6.0
+434,Largo do Machado,2024-10-26,Doce,Casadinho doce de leite,100,7.0
+434,Largo do Machado,2024-10-26,Doce,Mentirinha,120,7.2
+435,Largo do Machado,2024-10-26,Doce,Rosca da penha,220,13.2
+435,Largo do Machado,2024-10-26,Doce,Champanhota canela,1601,96.06
+435,Largo do Machado,2024-10-26,Doce,Leite condensado,400,24.0
+435,Largo do Machado,2024-10-26,Doce,Mentirinha,200,12.0
+436,Largo do Machado,2024-10-26,Salgado,Polvilho cebola,100,6.0
+437,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,480,28.8
+437,Largo do Machado,2024-10-26,Salgado,Polvilho natural,380,22.8
+438,Largo do Machado,2024-10-26,Salgado,Truton,360,21.6
+439,Largo do Machado,2024-10-26,Doce,Brinquinho,180,10.8
+440,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,320,19.2
+440,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,180,10.8
+441,Largo do Machado,2024-10-26,Doce,Palmier canela,340,23.8
+441,Largo do Machado,2024-10-26,Doce,Nata com folhos,280,16.8
+442,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,320,19.2
+443,Largo do Machado,2024-10-26,Doce,Canudinho nutella,200,16.0
+444,Largo do Machado,2024-10-26,Salgado,Pastelzinho de queijo,460,27.6
+444,Largo do Machado,2024-10-26,Salgado,Polvilho cebola,601,36.06
+445,Largo do Machado,2024-10-26,Salgado,Disquete,300,21.0
+445,Largo do Machado,2024-10-26,Salgado,Pastelzinho de queijo,140,8.4
+445,Largo do Machado,2024-10-26,Salgado,Peito de peru,220,13.2
+445,Largo do Machado,2024-10-26,Salgado,Peito de peru,400,24.0
+446,Largo do Machado,2024-10-26,Salgado,Polvilho queijo,1451,87.06
+447,Largo do Machado,2024-10-26,Doce,Champanhota canela,100,6.0
+447,Largo do Machado,2024-10-26,Doce,Leque,320,22.4
+448,Largo do Machado,2024-10-26,Doce,Brinquinho,1851,111.06
+448,Largo do Machado,2024-10-26,Doce,Nata com folhos,160,9.6
+448,Largo do Machado,2024-10-26,Doce,Nata,340,20.4
+449,Largo do Machado,2024-10-26,Doce,Casadinho goiaba,120,8.4
+450,Largo do Machado,2024-10-26,Doce,Champanhota,851,51.06
+450,Largo do Machado,2024-10-26,Doce,Palmier canela,751,52.57
+451,Largo do Machado,2024-10-26,Salgado,Polvilho natural,751,45.06
+452,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,340,20.4
+453,Largo do Machado,2024-10-26,Doce,Palmier canela,420,29.4
+453,Largo do Machado,2024-10-26,Doce,Palmier canela,1851,129.57
+453,Largo do Machado,2024-10-26,Doce,Champanhota canela,160,9.6
+453,Largo do Machado,2024-10-26,Doce,Rosca da penha,440,26.4
+454,Largo do Machado,2024-10-26,Salgado,Polvilho cebola,240,14.4
+454,Largo do Machado,2024-10-26,Salgado,Peito de peru,220,13.2
+454,Largo do Machado,2024-10-26,Salgado,Polvilho cebola,360,21.6
+454,Largo do Machado,2024-10-26,Salgado,Disquete,200,14.0
+455,Largo do Machado,2024-10-26,Doce,Mentirinha,120,7.2
+455,Largo do Machado,2024-10-26,Doce,Casadinho goiaba,420,29.4
+456,Largo do Machado,2024-10-26,Salgado,Bolinha de bacon,400,24.0
+457,Largo do Machado,2024-10-26,Salgado,Polvilho cebola,260,15.6
+458,Largo do Machado,2024-10-26,Doce,Rosca da penha,480,28.8
+458,Largo do Machado,2024-10-26,Doce,Rosca da penha,440,26.4
+459,Siqueira Campos,2024-10-27,Salgado,Polvilho cebola,200,12.0
+460,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,300,18.0
+460,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,200,12.0
+460,Siqueira Campos,2024-10-27,Salgado,Bolinha de bacon,420,25.2
+461,Siqueira Campos,2024-10-27,Salgado,Bolinha de bacon,400,24.0
+462,Siqueira Campos,2024-10-27,Doce,Canudinho chocolate,200,14.0
+462,Siqueira Campos,2024-10-27,Doce,Leque,300,21.0
+463,Siqueira Campos,2024-10-27,Salgado,Polvilho cebola,420,25.2
+463,Siqueira Campos,2024-10-27,Salgado,Peito de peru,320,19.2
+464,Siqueira Campos,2024-10-27,Doce,Brinquinho,140,8.4
+465,Siqueira Campos,2024-10-27,Doce,Casadinho goiaba,220,15.4
+466,Siqueira Campos,2024-10-27,Salgado,Peito de peru,240,14.4
+467,Siqueira Campos,2024-10-27,Doce,Topless,380,22.8
+467,Siqueira Campos,2024-10-27,Doce,Canudinho chocolate,360,25.2
+468,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,360,21.6
+469,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,220,13.2
+469,Siqueira Campos,2024-10-27,Salgado,Truton,440,26.4
+469,Siqueira Campos,2024-10-27,Salgado,Bolinha de bacon,280,16.8
+469,Siqueira Campos,2024-10-27,Salgado,Disquete,300,21.0
+469,Siqueira Campos,2024-10-27,Salgado,Peito de peru,400,24.0
+470,Siqueira Campos,2024-10-27,Doce,Casadinho doce de leite,480,33.6
+470,Siqueira Campos,2024-10-27,Doce,Canudinho chocolate,1201,84.07
+470,Siqueira Campos,2024-10-27,Doce,Champanhota,120,7.2
+471,Siqueira Campos,2024-10-27,Salgado,Peito de peru,420,25.2
+471,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,400,24.0
+472,Siqueira Campos,2024-10-27,Salgado,Truton,240,14.4
+473,Siqueira Campos,2024-10-27,Salgado,Bolinha de bacon,260,15.6
+474,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,320,19.2
+474,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,360,21.6
+475,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,280,16.8
+476,Siqueira Campos,2024-10-27,Doce,Palmier,400,28.0
+476,Siqueira Campos,2024-10-27,Doce,Leite condensado,120,7.2
+477,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,420,25.2
+477,Siqueira Campos,2024-10-27,Salgado,Peito de peru,1051,63.06
+477,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,340,20.4
+478,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,300,18.0
+478,Siqueira Campos,2024-10-27,Salgado,Polvilho queijo,751,45.06
+478,Siqueira Campos,2024-10-27,Salgado,Peito de peru,420,25.2
+478,Siqueira Campos,2024-10-27,Salgado,Bolinha de bacon,400,24.0
+479,Siqueira Campos,2024-10-27,Doce,Canudinho chocolate,1151,80.57
+479,Siqueira Campos,2024-10-27,Doce,Leite condensado,440,26.4
+479,Siqueira Campos,2024-10-27,Doce,Casadinho doce de leite,380,26.6
+479,Siqueira Campos,2024-10-27,Doce,Leque,400,28.0
+480,Siqueira Campos,2024-10-27,Salgado,Polvilho queijo,220,13.2
+481,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,220,13.2
+482,Siqueira Campos,2024-10-27,Doce,Nata com folhos,340,20.4
+483,Siqueira Campos,2024-10-27,Doce,Nata,420,25.2
+483,Siqueira Campos,2024-10-27,Doce,Champanhota,320,19.2
+483,Siqueira Campos,2024-10-27,Doce,Mentirinha,240,14.4
+484,Siqueira Campos,2024-10-27,Doce,Leque,400,28.0
+484,Siqueira Campos,2024-10-27,Doce,Mentirinha,260,15.6
+484,Siqueira Campos,2024-10-27,Doce,Palmier canela,360,25.2
+484,Siqueira Campos,2024-10-27,Doce,Rosca da penha,160,9.6
+485,Siqueira Campos,2024-10-27,Doce,Mil folhas,300,21.0
+485,Siqueira Campos,2024-10-27,Doce,Champanhota canela,120,7.2
+486,Siqueira Campos,2024-10-27,Salgado,Polvilho queijo,501,30.06
+486,Siqueira Campos,2024-10-27,Salgado,Polvilho queijo,160,9.6
+487,Siqueira Campos,2024-10-27,Salgado,Polvilho cebola,180,10.8
+487,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,440,26.4
+487,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,220,13.2
+487,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,180,10.8
+488,Siqueira Campos,2024-10-27,Salgado,Polvilho natural,1101,66.06
+488,Siqueira Campos,2024-10-27,Salgado,Bolinha de bacon,380,22.8
+488,Siqueira Campos,2024-10-27,Salgado,Truton,240,14.4
+489,Siqueira Campos,2024-10-27,Salgado,Pastelzinho de queijo,120,7.2
+490,Siqueira Campos,2024-10-27,Doce,Nata com folhos,120,7.2
+490,Siqueira Campos,2024-10-27,Doce,Casadinho goiaba,480,33.6
+491,Jardim de Alah,2024-10-28,Doce,Leque,340,23.8
+492,Jardim de Alah,2024-10-28,Doce,Canudinho chocolate,400,28.0
+492,Jardim de Alah,2024-10-28,Doce,Casadinho doce de leite,160,11.2
+493,Jardim de Alah,2024-10-28,Salgado,Disquete,160,11.2
+494,Jardim de Alah,2024-10-28,Salgado,Peito de peru,1701,102.06
+494,Jardim de Alah,2024-10-28,Salgado,Bolinha de bacon,140,8.4
+495,Jardim de Alah,2024-10-28,Doce,Mil folhas,300,21.0
+495,Jardim de Alah,2024-10-28,Doce,Rosca da penha,340,20.4
+496,Jardim de Alah,2024-10-28,Salgado,Truton,1551,93.06
+496,Jardim de Alah,2024-10-28,Salgado,Bolinha de bacon,320,19.2
+497,Jardim de Alah,2024-10-28,Salgado,Polvilho natural,160,9.6
+498,Jardim de Alah,2024-10-28,Salgado,Disquete,220,15.4
+498,Jardim de Alah,2024-10-28,Salgado,Polvilho queijo,260,15.6
+498,Jardim de Alah,2024-10-28,Salgado,Pastelzinho de queijo,1551,93.06
+498,Jardim de Alah,2024-10-28,Salgado,Bolinha de bacon,100,6.0
+498,Jardim de Alah,2024-10-28,Salgado,Polvilho natural,300,18.0
+498,Jardim de Alah,2024-10-28,Salgado,Bolinha de bacon,100,6.0
+498,Jardim de Alah,2024-10-28,Salgado,Polvilho queijo,340,20.4
+499,Jardim de Alah,2024-10-28,Doce,Palmier,400,28.0
+500,Jardim de Alah,2024-10-28,Salgado,Pastelzinho de queijo,360,21.6
+500,Jardim de Alah,2024-10-28,Salgado,Polvilho queijo,1151,69.06
+501,Jardim de Alah,2024-10-28,Doce,Brinquinho,420,25.2
+501,Jardim de Alah,2024-10-28,Doce,Champanhota,180,10.8
+502,Jardim de Alah,2024-10-28,Salgado,Pastelzinho de queijo,460,27.6
+502,Jardim de Alah,2024-10-28,Salgado,Truton,260,15.6
+503,Jardim de Alah,2024-10-28,Salgado,Disquete,340,23.8
+504,Jardim de Alah,2024-10-28,Doce,Nata,280,16.8
+504,Jardim de Alah,2024-10-28,Doce,Brinquinho,100,6.0
+504,Jardim de Alah,2024-10-28,Doce,Topless,340,20.4
+504,Jardim de Alah,2024-10-28,Doce,Canudinho chocolate,480,33.6
+505,Jardim de Alah,2024-10-28,Doce,Palmier canela,200,14.0
+505,Jardim de Alah,2024-10-28,Doce,Brinquinho,260,15.6
+506,Jardim de Alah,2024-10-28,Salgado,Peito de peru,380,22.8
+507,Jardim de Alah,2024-10-28,Doce,Palmier,360,25.2
+507,Jardim de Alah,2024-10-28,Doce,Palmier canela,360,25.2
+508,Jardim de Alah,2024-10-28,Doce,Mil folhas,801,56.07
+508,Jardim de Alah,2024-10-28,Doce,Brinquinho,420,25.2
+509,Jardim de Alah,2024-10-28,Salgado,Disquete,220,15.4
+510,Jardim de Alah,2024-10-28,Doce,Rosca da penha,140,8.4
+510,Jardim de Alah,2024-10-28,Doce,Rosca da penha,340,20.4
+511,Jardim de Alah,2024-10-28,Doce,Palmier canela,280,19.6
+512,Jardim de Alah,2024-10-28,Salgado,Bolinha de bacon,240,14.4
+513,Jardim de Alah,2024-10-28,Salgado,Truton,1801,108.06
+513,Jardim de Alah,2024-10-28,Salgado,Disquete,280,19.6
+514,Jardim de Alah,2024-10-28,Doce,Nata,1351,81.06
+515,Jardim de Alah,2024-10-28,Doce,Rosca da penha,120,7.2
+515,Jardim de Alah,2024-10-28,Doce,Rosca da penha,360,21.6
+515,Jardim de Alah,2024-10-28,Doce,Champanhota canela,360,21.6
+515,Jardim de Alah,2024-10-28,Doce,Palmier canela,380,26.6
+515,Jardim de Alah,2024-10-28,Doce,Brinquinho,300,18.0
+516,Jardim de Alah,2024-10-28,Salgado,Disquete,300,21.0
+516,Jardim de Alah,2024-10-28,Salgado,Truton,100,6.0
+516,Jardim de Alah,2024-10-28,Salgado,Pastelzinho de queijo,380,22.8
+516,Jardim de Alah,2024-10-28,Salgado,Polvilho cebola,220,13.2
+517,Jardim de Alah,2024-10-28,Doce,Leque,140,9.8
+517,Jardim de Alah,2024-10-28,Doce,Brinquinho,460,27.6
+517,Jardim de Alah,2024-10-28,Doce,Nata,360,21.6
+518,Jardim de Alah,2024-10-28,Doce,Champanhota canela,420,25.2
+518,Jardim de Alah,2024-10-28,Doce,Nata com folhos,220,13.2
+518,Jardim de Alah,2024-10-28,Doce,Mentirinha,300,18.0
+519,Nossa senhora da paz,2024-11-01,Doce,Champanhota,420,25.2
+520,Nossa senhora da paz,2024-11-01,Doce,Champanhota,300,18.0
+520,Nossa senhora da paz,2024-11-01,Doce,Topless,240,14.4
+520,Nossa senhora da paz,2024-11-01,Doce,Nata com folhos,240,14.4
+520,Nossa senhora da paz,2024-11-01,Doce,Leite condensado,480,28.8
+521,Nossa senhora da paz,2024-11-01,Doce,Vaidosa,180,10.8
+521,Nossa senhora da paz,2024-11-01,Doce,Topless,260,15.6
+522,Nossa senhora da paz,2024-11-01,Salgado,Truton,300,18.0
+523,Nossa senhora da paz,2024-11-01,Doce,Casadinho doce de leite,280,19.6
+524,Nossa senhora da paz,2024-11-01,Salgado,Pastelzinho de queijo,380,22.8
+525,Nossa senhora da paz,2024-11-01,Doce,Rosca da penha,220,13.2
+525,Nossa senhora da paz,2024-11-01,Doce,Palmier,240,16.8
+526,Nossa senhora da paz,2024-11-01,Doce,Canudinho chocolate,260,18.2
+526,Nossa senhora da paz,2024-11-01,Doce,Brinquinho,260,15.6
+527,Nossa senhora da paz,2024-11-01,Salgado,Polvilho natural,180,10.8
+528,Nossa senhora da paz,2024-11-01,Doce,Palmier canela,140,9.8
+529,Largo do Machado,2024-11-02,Salgado,Polvilho natural,420,25.2
+529,Largo do Machado,2024-11-02,Salgado,Disquete,120,8.4
+530,Largo do Machado,2024-11-02,Salgado,Peito de peru,420,25.2
+530,Largo do Machado,2024-11-02,Salgado,Truton,100,6.0
+531,Largo do Machado,2024-11-02,Doce,Casadinho doce de leite,220,15.4
+531,Largo do Machado,2024-11-02,Doce,Nata com folhos,320,19.2
+531,Largo do Machado,2024-11-02,Doce,Vaidosa,180,10.8
+531,Largo do Machado,2024-11-02,Doce,Leque,360,25.2
+532,Largo do Machado,2024-11-02,Doce,Casadinho doce de leite,460,32.2
+532,Largo do Machado,2024-11-02,Doce,Brinquinho,240,14.4
+532,Largo do Machado,2024-11-02,Doce,Leite condensado,400,24.0
+532,Largo do Machado,2024-11-02,Doce,Leite condensado,140,8.4
+532,Largo do Machado,2024-11-02,Doce,Vaidosa,220,13.2
+532,Largo do Machado,2024-11-02,Doce,Champanhota canela,440,26.4
+532,Largo do Machado,2024-11-02,Doce,Brinquinho,1051,63.06
+533,Largo do Machado,2024-11-02,Doce,Mentirinha,380,22.8
+533,Largo do Machado,2024-11-02,Doce,Mil folhas,200,14.0
+533,Largo do Machado,2024-11-02,Doce,Casadinho doce de leite,140,9.8
+534,Largo do Machado,2024-11-02,Salgado,Pastelzinho de queijo,120,7.2
+534,Largo do Machado,2024-11-02,Salgado,Disquete,460,32.2
+535,Largo do Machado,2024-11-02,Doce,Palmier canela,100,7.0
+535,Largo do Machado,2024-11-02,Doce,Casadinho goiaba,240,16.8
+536,Largo do Machado,2024-11-02,Salgado,Polvilho queijo,440,26.4
+537,Largo do Machado,2024-11-02,Doce,Leite condensado,440,26.4
+538,Largo do Machado,2024-11-02,Doce,Canudinho chocolate,220,15.4
+539,Largo do Machado,2024-11-02,Salgado,Polvilho cebola,160,9.6
+539,Largo do Machado,2024-11-02,Salgado,Bolinha de bacon,480,28.8
+539,Largo do Machado,2024-11-02,Salgado,Pastelzinho de queijo,200,12.0
+540,Largo do Machado,2024-11-02,Salgado,Bolinha de bacon,400,24.0
+540,Largo do Machado,2024-11-02,Salgado,Polvilho queijo,240,14.4
+541,Largo do Machado,2024-11-02,Salgado,Disquete,240,16.8
+542,Largo do Machado,2024-11-02,Doce,Canudinho nutella,140,11.2
+543,Largo do Machado,2024-11-02,Doce,Mentirinha,480,28.8
+543,Largo do Machado,2024-11-02,Doce,Rosca da penha,200,12.0
+544,Largo do Machado,2024-11-02,Doce,Nata com folhos,320,19.2
+544,Largo do Machado,2024-11-02,Doce,Champanhota,420,25.2
+544,Largo do Machado,2024-11-02,Doce,Leite condensado,120,7.2
+544,Largo do Machado,2024-11-02,Doce,Canudinho chocolate,260,18.2
+544,Largo do Machado,2024-11-02,Doce,Topless,320,19.2
+545,Largo do Machado,2024-11-02,Salgado,Polvilho queijo,460,27.6
+545,Largo do Machado,2024-11-02,Salgado,Disquete,300,21.0
+546,Largo do Machado,2024-11-02,Salgado,Peito de peru,220,13.2
+546,Largo do Machado,2024-11-02,Salgado,Polvilho queijo,1851,111.06
+547,Siqueira Campos,2024-11-03,Doce,Nata com folhos,300,18.0
+548,Siqueira Campos,2024-11-03,Salgado,Peito de peru,280,16.8
+548,Siqueira Campos,2024-11-03,Salgado,Bolinha de bacon,460,27.6
+549,Siqueira Campos,2024-11-03,Salgado,Truton,320,19.2
+550,Siqueira Campos,2024-11-03,Salgado,Pastelzinho de queijo,1051,63.06
+550,Siqueira Campos,2024-11-03,Salgado,Pastelzinho de queijo,340,20.4
+550,Siqueira Campos,2024-11-03,Salgado,Polvilho cebola,480,28.8
+551,Siqueira Campos,2024-11-03,Doce,Nata com folhos,200,12.0
+552,Siqueira Campos,2024-11-03,Salgado,Truton,901,54.06
+553,Siqueira Campos,2024-11-03,Doce,Brinquinho,360,21.6
+554,Siqueira Campos,2024-11-03,Doce,Casadinho goiaba,180,12.6
+555,Siqueira Campos,2024-11-03,Doce,Casadinho doce de leite,380,26.6
+556,Siqueira Campos,2024-11-03,Doce,Casadinho doce de leite,140,9.8
+557,Siqueira Campos,2024-11-03,Salgado,Peito de peru,280,16.8
+557,Siqueira Campos,2024-11-03,Salgado,Polvilho cebola,1601,96.06
+557,Siqueira Campos,2024-11-03,Salgado,Polvilho queijo,400,24.0
+557,Siqueira Campos,2024-11-03,Salgado,Disquete,440,30.8
+558,Siqueira Campos,2024-11-03,Salgado,Bolinha de bacon,380,22.8
+559,Siqueira Campos,2024-11-03,Doce,Canudinho nutella,951,76.08
+560,Siqueira Campos,2024-11-03,Doce,Canudinho chocolate,160,11.2
+560,Siqueira Campos,2024-11-03,Doce,Casadinho doce de leite,280,19.6
+560,Siqueira Campos,2024-11-03,Doce,Brinquinho,440,26.4
+561,Siqueira Campos,2024-11-03,Salgado,Truton,260,15.6
+562,Siqueira Campos,2024-11-03,Salgado,Polvilho natural,951,57.06
+563,Jardim de Alah,2024-11-04,Doce,Brinquinho,200,12.0
+563,Jardim de Alah,2024-11-04,Doce,Leque,200,14.0
+564,Jardim de Alah,2024-11-04,Doce,Canudinho chocolate,100,7.0
+564,Jardim de Alah,2024-11-04,Doce,Champanhota canela,440,26.4
+564,Jardim de Alah,2024-11-04,Doce,Brinquinho,280,16.8
+564,Jardim de Alah,2024-11-04,Doce,Rosca da penha,200,12.0
+564,Jardim de Alah,2024-11-04,Doce,Leite condensado,320,19.2
+565,Jardim de Alah,2024-11-04,Salgado,Polvilho natural,1501,90.06
+566,Jardim de Alah,2024-11-04,Doce,Vaidosa,601,36.06
+567,Jardim de Alah,2024-11-04,Doce,Brinquinho,440,26.4
+567,Jardim de Alah,2024-11-04,Doce,Brinquinho,360,21.6
+567,Jardim de Alah,2024-11-04,Doce,Nata com folhos,320,19.2
+567,Jardim de Alah,2024-11-04,Doce,Canudinho nutella,400,32.0
+568,Jardim de Alah,2024-11-04,Salgado,Polvilho queijo,440,26.4
+568,Jardim de Alah,2024-11-04,Salgado,Bolinha de bacon,140,8.4
+569,Jardim de Alah,2024-11-04,Salgado,Disquete,200,14.0
+569,Jardim de Alah,2024-11-04,Salgado,Bolinha de bacon,240,14.4
+569,Jardim de Alah,2024-11-04,Salgado,Polvilho cebola,180,10.8
+570,Jardim de Alah,2024-11-04,Salgado,Bolinha de bacon,280,16.8
+570,Jardim de Alah,2024-11-04,Salgado,Disquete,340,23.8
+570,Jardim de Alah,2024-11-04,Salgado,Peito de peru,140,8.4
+571,Jardim de Alah,2024-11-04,Salgado,Polvilho cebola,1601,96.06
+572,Jardim de Alah,2024-11-04,Salgado,Polvilho natural,100,6.0
+573,Jardim de Alah,2024-11-04,Salgado,Truton,460,27.6
+573,Jardim de Alah,2024-11-04,Salgado,Disquete,280,19.6
+574,Jardim de Alah,2024-11-04,Doce,Champanhota canela,240,14.4
+575,Jardim de Alah,2024-11-04,Salgado,Bolinha de bacon,300,18.0
+576,Jardim de Alah,2024-11-04,Salgado,Bolinha de bacon,480,28.8
+576,Jardim de Alah,2024-11-04,Salgado,Pastelzinho de queijo,100,6.0
+577,Jardim de Alah,2024-11-04,Doce,Nata,460,27.6
+578,Nossa senhora da paz,2024-11-08,Salgado,Polvilho queijo,480,28.8
+579,Nossa senhora da paz,2024-11-08,Salgado,Bolinha de bacon,300,18.0
+579,Nossa senhora da paz,2024-11-08,Salgado,Pastelzinho de queijo,460,27.6
+579,Nossa senhora da paz,2024-11-08,Salgado,Truton,220,13.2
+579,Nossa senhora da paz,2024-11-08,Salgado,Pastelzinho de queijo,140,8.4
+579,Nossa senhora da paz,2024-11-08,Salgado,Bolinha de bacon,1951,117.06
+580,Nossa senhora da paz,2024-11-08,Doce,Brinquinho,751,45.06
+580,Nossa senhora da paz,2024-11-08,Doce,Palmier canela,340,23.8
+581,Nossa senhora da paz,2024-11-08,Doce,Vaidosa,200,12.0
+582,Nossa senhora da paz,2024-11-08,Salgado,Disquete,1451,101.57
+582,Nossa senhora da paz,2024-11-08,Salgado,Peito de peru,1601,96.06
+583,Nossa senhora da paz,2024-11-08,Salgado,Pastelzinho de queijo,420,25.2
+583,Nossa senhora da paz,2024-11-08,Salgado,Polvilho queijo,651,39.06
+584,Nossa senhora da paz,2024-11-08,Salgado,Disquete,220,15.4
+585,Nossa senhora da paz,2024-11-08,Doce,Nata com folhos,440,26.4
+586,Nossa senhora da paz,2024-11-08,Doce,Leque,160,11.2
+587,Nossa senhora da paz,2024-11-08,Salgado,Bolinha de bacon,601,36.06
+587,Nossa senhora da paz,2024-11-08,Salgado,Bolinha de bacon,260,15.6
+588,Nossa senhora da paz,2024-11-08,Salgado,Peito de peru,200,12.0
+589,Nossa senhora da paz,2024-11-08,Doce,Mentirinha,260,15.6
+589,Nossa senhora da paz,2024-11-08,Doce,Champanhota,480,28.8
+589,Nossa senhora da paz,2024-11-08,Doce,Casadinho goiaba,180,12.6
+589,Nossa senhora da paz,2024-11-08,Doce,Palmier,1501,105.07
+589,Nossa senhora da paz,2024-11-08,Doce,Champanhota,240,14.4
+589,Nossa senhora da paz,2024-11-08,Doce,Champanhota,420,25.2
+589,Nossa senhora da paz,2024-11-08,Doce,Leque,400,28.0
+590,Largo do Machado,2024-11-09,Salgado,Peito de peru,420,25.2
+591,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,300,18.0
+592,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,140,8.4
+593,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,220,13.2
+593,Largo do Machado,2024-11-09,Salgado,Peito de peru,360,21.6
+594,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,160,9.6
+595,Largo do Machado,2024-11-09,Salgado,Polvilho natural,240,14.4
+595,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,240,14.4
+596,Largo do Machado,2024-11-09,Doce,Casadinho doce de leite,280,19.6
+596,Largo do Machado,2024-11-09,Doce,Casadinho doce de leite,340,23.8
+596,Largo do Machado,2024-11-09,Doce,Mentirinha,340,20.4
+596,Largo do Machado,2024-11-09,Doce,Palmier,340,23.8
+596,Largo do Machado,2024-11-09,Doce,Casadinho goiaba,120,8.4
+596,Largo do Machado,2024-11-09,Doce,Casadinho goiaba,420,29.4
+597,Largo do Machado,2024-11-09,Doce,Brinquinho,480,28.8
+598,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,460,27.6
+599,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,400,24.0
+599,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,480,28.8
+599,Largo do Machado,2024-11-09,Salgado,Truton,1301,78.06
+599,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,360,21.6
+599,Largo do Machado,2024-11-09,Salgado,Polvilho natural,901,54.06
+600,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,200,12.0
+600,Largo do Machado,2024-11-09,Salgado,Peito de peru,300,18.0
+601,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,300,18.0
+601,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,1201,72.06
+601,Largo do Machado,2024-11-09,Salgado,Truton,440,26.4
+602,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,400,24.0
+602,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,320,19.2
+602,Largo do Machado,2024-11-09,Salgado,Truton,280,16.8
+602,Largo do Machado,2024-11-09,Salgado,Polvilho natural,180,10.8
+602,Largo do Machado,2024-11-09,Salgado,Truton,180,10.8
+602,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,360,21.6
+602,Largo do Machado,2024-11-09,Salgado,Polvilho natural,180,10.8
+602,Largo do Machado,2024-11-09,Salgado,Peito de peru,360,21.6
+602,Largo do Machado,2024-11-09,Salgado,Peito de peru,1951,117.06
+603,Largo do Machado,2024-11-09,Salgado,Truton,440,26.4
+604,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,140,8.4
+604,Largo do Machado,2024-11-09,Salgado,Polvilho queijo,180,10.8
+604,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,220,13.2
+605,Largo do Machado,2024-11-09,Doce,Leite condensado,480,28.8
+605,Largo do Machado,2024-11-09,Doce,Canudinho nutella,480,38.4
+606,Largo do Machado,2024-11-09,Doce,Casadinho goiaba,100,7.0
+606,Largo do Machado,2024-11-09,Doce,Nata,240,14.4
+607,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,340,20.4
+607,Largo do Machado,2024-11-09,Salgado,Polvilho natural,400,24.0
+607,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,180,10.8
+608,Largo do Machado,2024-11-09,Salgado,Disquete,400,28.0
+608,Largo do Machado,2024-11-09,Salgado,Disquete,240,16.8
+609,Largo do Machado,2024-11-09,Doce,Mentirinha,120,7.2
+609,Largo do Machado,2024-11-09,Doce,Champanhota canela,100,6.0
+609,Largo do Machado,2024-11-09,Doce,Champanhota,200,12.0
+610,Largo do Machado,2024-11-09,Doce,Rosca da penha,400,24.0
+610,Largo do Machado,2024-11-09,Doce,Brinquinho,380,22.8
+611,Largo do Machado,2024-11-09,Doce,Nata com folhos,480,28.8
+612,Largo do Machado,2024-11-09,Doce,Canudinho chocolate,420,29.4
+613,Largo do Machado,2024-11-09,Doce,Leque,160,11.2
+613,Largo do Machado,2024-11-09,Doce,Canudinho nutella,300,24.0
+614,Largo do Machado,2024-11-09,Salgado,Truton,320,19.2
+615,Largo do Machado,2024-11-09,Doce,Nata,1851,111.06
+616,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,200,12.0
+616,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,180,10.8
+617,Largo do Machado,2024-11-09,Doce,Casadinho goiaba,460,32.2
+618,Largo do Machado,2024-11-09,Salgado,Truton,100,6.0
+618,Largo do Machado,2024-11-09,Salgado,Disquete,140,9.8
+618,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,400,24.0
+618,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,440,26.4
+619,Largo do Machado,2024-11-09,Salgado,Pastelzinho de queijo,360,21.6
+620,Largo do Machado,2024-11-09,Salgado,Truton,100,6.0
+620,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,460,27.6
+621,Largo do Machado,2024-11-09,Doce,Nata com folhos,420,25.2
+622,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,1551,93.06
+623,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,460,27.6
+623,Largo do Machado,2024-11-09,Salgado,Bolinha de bacon,260,15.6
+623,Largo do Machado,2024-11-09,Salgado,Polvilho cebola,320,19.2
+623,Largo do Machado,2024-11-09,Salgado,Polvilho natural,340,20.4
+624,Siqueira Campos,2024-11-10,Doce,Rosca da penha,480,28.8
+625,Siqueira Campos,2024-11-10,Salgado,Polvilho cebola,340,20.4
+625,Siqueira Campos,2024-11-10,Salgado,Polvilho cebola,1301,78.06
+626,Siqueira Campos,2024-11-10,Doce,Leque,1751,122.57
+627,Siqueira Campos,2024-11-10,Salgado,Polvilho cebola,260,15.6
+627,Siqueira Campos,2024-11-10,Salgado,Pastelzinho de queijo,260,15.6
+628,Siqueira Campos,2024-11-10,Salgado,Polvilho natural,851,51.06
+628,Siqueira Campos,2024-11-10,Salgado,Peito de peru,160,9.6
+629,Siqueira Campos,2024-11-10,Salgado,Polvilho natural,380,22.8
+630,Siqueira Campos,2024-11-10,Doce,Canudinho nutella,480,38.4
+631,Siqueira Campos,2024-11-10,Doce,Vaidosa,400,24.0
+631,Siqueira Campos,2024-11-10,Doce,Mentirinha,400,24.0
+631,Siqueira Campos,2024-11-10,Doce,Palmier canela,280,19.6
+631,Siqueira Campos,2024-11-10,Doce,Nata com folhos,280,16.8
+631,Siqueira Campos,2024-11-10,Doce,Mil folhas,400,28.0
+631,Siqueira Campos,2024-11-10,Doce,Casadinho goiaba,220,15.4
+631,Siqueira Campos,2024-11-10,Doce,Champanhota canela,260,15.6
+632,Siqueira Campos,2024-11-10,Salgado,Disquete,440,30.8
+633,Siqueira Campos,2024-11-10,Salgado,Truton,380,22.8
+633,Siqueira Campos,2024-11-10,Salgado,Pastelzinho de queijo,380,22.8
+634,Siqueira Campos,2024-11-10,Doce,Rosca da penha,100,6.0
+634,Siqueira Campos,2024-11-10,Doce,Nata com folhos,340,20.4
+635,Siqueira Campos,2024-11-10,Salgado,Disquete,280,19.6
+636,Siqueira Campos,2024-11-10,Doce,Champanhota canela,440,26.4
+636,Siqueira Campos,2024-11-10,Doce,Canudinho nutella,160,12.8
+637,Siqueira Campos,2024-11-10,Doce,Leite condensado,360,21.6
+637,Siqueira Campos,2024-11-10,Doce,Canudinho nutella,240,19.2
+637,Siqueira Campos,2024-11-10,Doce,Nata,140,8.4
+637,Siqueira Campos,2024-11-10,Doce,Leque,651,45.57
+638,Siqueira Campos,2024-11-10,Salgado,Polvilho queijo,160,9.6
+639,Siqueira Campos,2024-11-10,Salgado,Peito de peru,180,10.8
+640,Siqueira Campos,2024-11-10,Salgado,Peito de peru,400,24.0
+641,Siqueira Campos,2024-11-10,Salgado,Disquete,300,21.0
+642,Siqueira Campos,2024-11-10,Salgado,Polvilho natural,260,15.6
+642,Siqueira Campos,2024-11-10,Salgado,Polvilho cebola,260,15.6
+643,Siqueira Campos,2024-11-10,Doce,Casadinho doce de leite,320,22.4
+643,Siqueira Campos,2024-11-10,Doce,Palmier,260,18.2
+643,Siqueira Campos,2024-11-10,Doce,Rosca da penha,200,12.0
+644,Siqueira Campos,2024-11-10,Doce,Casadinho doce de leite,200,14.0
+645,Siqueira Campos,2024-11-10,Doce,Mentirinha,801,48.06
+646,Siqueira Campos,2024-11-10,Doce,Leque,440,30.8
+647,Siqueira Campos,2024-11-10,Doce,Vaidosa,380,22.8
+648,Siqueira Campos,2024-11-10,Salgado,Bolinha de bacon,260,15.6
+648,Siqueira Campos,2024-11-10,Salgado,Truton,220,13.2
+649,Siqueira Campos,2024-11-10,Doce,Leque,320,22.4
+649,Siqueira Campos,2024-11-10,Doce,Vaidosa,140,8.4
+650,Siqueira Campos,2024-11-10,Doce,Champanhota,320,19.2
+651,Jardim de Alah,2024-11-11,Doce,Mentirinha,180,10.8
+652,Jardim de Alah,2024-11-11,Doce,Mentirinha,100,6.0
+652,Jardim de Alah,2024-11-11,Doce,Topless,240,14.4
+653,Jardim de Alah,2024-11-11,Salgado,Pastelzinho de queijo,1601,96.06
+653,Jardim de Alah,2024-11-11,Salgado,Polvilho natural,440,26.4
+653,Jardim de Alah,2024-11-11,Salgado,Polvilho natural,260,15.6
+653,Jardim de Alah,2024-11-11,Salgado,Polvilho natural,180,10.8
+654,Jardim de Alah,2024-11-11,Doce,Champanhota,120,7.2
+655,Jardim de Alah,2024-11-11,Salgado,Bolinha de bacon,701,42.06
+655,Jardim de Alah,2024-11-11,Salgado,Polvilho queijo,300,18.0
+656,Jardim de Alah,2024-11-11,Doce,Canudinho chocolate,460,32.2
+656,Jardim de Alah,2024-11-11,Doce,Mentirinha,440,26.4
+657,Jardim de Alah,2024-11-11,Doce,Mentirinha,1851,111.06
+658,Jardim de Alah,2024-11-11,Doce,Vaidosa,320,19.2
+658,Jardim de Alah,2024-11-11,Doce,Nata com folhos,340,20.4
+658,Jardim de Alah,2024-11-11,Doce,Nata com folhos,300,18.0
+658,Jardim de Alah,2024-11-11,Doce,Vaidosa,701,42.06
+658,Jardim de Alah,2024-11-11,Doce,Canudinho nutella,140,11.2
+659,Jardim de Alah,2024-11-11,Salgado,Bolinha de bacon,160,9.6
+660,Jardim de Alah,2024-11-11,Doce,Topless,180,10.8
+660,Jardim de Alah,2024-11-11,Doce,Canudinho nutella,100,8.0
+660,Jardim de Alah,2024-11-11,Doce,Leque,440,30.8
+661,Jardim de Alah,2024-11-11,Salgado,Polvilho queijo,360,21.6
+661,Jardim de Alah,2024-11-11,Salgado,Polvilho cebola,360,21.6
+662,Jardim de Alah,2024-11-11,Doce,Leite condensado,1651,99.06
+663,Jardim de Alah,2024-11-11,Salgado,Pastelzinho de queijo,140,8.4
+664,Jardim de Alah,2024-11-11,Doce,Leque,480,33.6
+664,Jardim de Alah,2024-11-11,Doce,Mil folhas,160,11.2
+665,Jardim de Alah,2024-11-11,Salgado,Disquete,400,28.0
+666,Jardim de Alah,2024-11-11,Doce,Nata,100,6.0
+667,Jardim de Alah,2024-11-11,Doce,Leque,280,19.6
+668,Jardim de Alah,2024-11-11,Doce,Canudinho nutella,1151,92.08
+668,Jardim de Alah,2024-11-11,Doce,Topless,360,21.6
+669,Jardim de Alah,2024-11-11,Salgado,Peito de peru,420,25.2
+670,Jardim de Alah,2024-11-11,Doce,Leque,200,14.0
+670,Jardim de Alah,2024-11-11,Doce,Casadinho goiaba,360,25.2
+671,Jardim de Alah,2024-11-11,Salgado,Pastelzinho de queijo,1351,81.06
+672,Jardim de Alah,2024-11-11,Salgado,Disquete,140,9.8
+672,Jardim de Alah,2024-11-11,Salgado,Truton,360,21.6
+672,Jardim de Alah,2024-11-11,Salgado,Polvilho queijo,460,27.6
+672,Jardim de Alah,2024-11-11,Salgado,Truton,260,15.6
+672,Jardim de Alah,2024-11-11,Salgado,Bolinha de bacon,160,9.6
+673,Jardim de Alah,2024-11-11,Doce,Leite condensado,420,25.2
+674,Jardim de Alah,2024-11-11,Salgado,Polvilho queijo,120,7.2
+675,Jardim de Alah,2024-11-11,Doce,Palmier canela,460,32.2
+676,Jardim de Alah,2024-11-11,Doce,Canudinho nutella,480,38.4
+677,Nossa senhora da paz,2024-11-15,Doce,Rosca da penha,460,27.6
+678,Nossa senhora da paz,2024-11-15,Doce,Vaidosa,300,18.0
+679,Nossa senhora da paz,2024-11-15,Salgado,Polvilho queijo,280,16.8
+679,Nossa senhora da paz,2024-11-15,Salgado,Bolinha de bacon,200,12.0
+679,Nossa senhora da paz,2024-11-15,Salgado,Truton,100,6.0
+680,Nossa senhora da paz,2024-11-15,Doce,Mentirinha,360,21.6
+681,Nossa senhora da paz,2024-11-15,Doce,Casadinho doce de leite,160,11.2
+682,Nossa senhora da paz,2024-11-15,Salgado,Truton,360,21.6
+683,Nossa senhora da paz,2024-11-15,Doce,Canudinho nutella,280,22.4
+684,Nossa senhora da paz,2024-11-15,Salgado,Polvilho cebola,440,26.4
+685,Nossa senhora da paz,2024-11-15,Doce,Vaidosa,160,9.6
+686,Nossa senhora da paz,2024-11-15,Doce,Casadinho goiaba,420,29.4
+687,Nossa senhora da paz,2024-11-15,Salgado,Disquete,260,18.2
+688,Nossa senhora da paz,2024-11-15,Doce,Nata com folhos,320,19.2
+689,Nossa senhora da paz,2024-11-15,Doce,Palmier canela,420,29.4
+690,Nossa senhora da paz,2024-11-15,Doce,Leque,460,32.2
+691,Nossa senhora da paz,2024-11-15,Doce,Leite condensado,140,8.4
+691,Nossa senhora da paz,2024-11-15,Doce,Rosca da penha,180,10.8
+692,Nossa senhora da paz,2024-11-15,Salgado,Pastelzinho de queijo,340,20.4
+692,Nossa senhora da paz,2024-11-15,Salgado,Polvilho cebola,320,19.2
+692,Nossa senhora da paz,2024-11-15,Salgado,Truton,100,6.0
+693,Nossa senhora da paz,2024-11-15,Doce,Brinquinho,180,10.8
+693,Nossa senhora da paz,2024-11-15,Doce,Mil folhas,360,25.2
+694,Nossa senhora da paz,2024-11-15,Doce,Brinquinho,300,18.0
+695,Nossa senhora da paz,2024-11-15,Salgado,Disquete,100,7.0
+696,Largo do Machado,2024-11-16,Doce,Mil folhas,260,18.2
+696,Largo do Machado,2024-11-16,Doce,Leite condensado,100,6.0
+697,Largo do Machado,2024-11-16,Doce,Champanhota canela,480,28.8
+697,Largo do Machado,2024-11-16,Doce,Leque,200,14.0
+697,Largo do Machado,2024-11-16,Doce,Nata com folhos,280,16.8
+698,Largo do Machado,2024-11-16,Salgado,Truton,360,21.6
+699,Largo do Machado,2024-11-16,Salgado,Polvilho cebola,280,16.8
+700,Largo do Machado,2024-11-16,Salgado,Polvilho natural,320,19.2
+701,Largo do Machado,2024-11-16,Doce,Champanhota,200,12.0
+702,Largo do Machado,2024-11-16,Salgado,Truton,480,28.8
+703,Largo do Machado,2024-11-16,Doce,Canudinho chocolate,340,23.8
+703,Largo do Machado,2024-11-16,Doce,Mentirinha,480,28.8
+703,Largo do Machado,2024-11-16,Doce,Palmier,440,30.8
+704,Largo do Machado,2024-11-16,Doce,Brinquinho,260,15.6
+705,Largo do Machado,2024-11-16,Salgado,Polvilho natural,160,9.6
+706,Largo do Machado,2024-11-16,Doce,Mil folhas,320,22.4
+706,Largo do Machado,2024-11-16,Doce,Mil folhas,220,15.4
+707,Largo do Machado,2024-11-16,Doce,Canudinho chocolate,480,33.6
+708,Largo do Machado,2024-11-16,Doce,Canudinho nutella,180,14.4
+709,Largo do Machado,2024-11-16,Doce,Leque,340,23.8
+709,Largo do Machado,2024-11-16,Doce,Topless,340,20.4
+710,Largo do Machado,2024-11-16,Salgado,Pastelzinho de queijo,480,28.8
+711,Largo do Machado,2024-11-16,Doce,Champanhota canela,240,14.4
+712,Largo do Machado,2024-11-16,Doce,Canudinho nutella,320,25.6
+713,Largo do Machado,2024-11-16,Doce,Mil folhas,180,12.6
+713,Largo do Machado,2024-11-16,Doce,Nata,1951,117.06
+714,Largo do Machado,2024-11-16,Doce,Canudinho nutella,440,35.2
+714,Largo do Machado,2024-11-16,Doce,Nata,180,10.8
+715,Largo do Machado,2024-11-16,Doce,Mentirinha,240,14.4
+716,Largo do Machado,2024-11-16,Salgado,Polvilho natural,1301,78.06
+717,Largo do Machado,2024-11-16,Doce,Leque,400,28.0
+718,Largo do Machado,2024-11-16,Doce,Vaidosa,1851,111.06
+718,Largo do Machado,2024-11-16,Doce,Brinquinho,480,28.8
+719,Largo do Machado,2024-11-16,Doce,Brinquinho,220,13.2
+719,Largo do Machado,2024-11-16,Doce,Casadinho doce de leite,200,14.0
+720,Siqueira Campos,2024-11-17,Salgado,Bolinha de bacon,420,25.2
+720,Siqueira Campos,2024-11-17,Salgado,Polvilho natural,320,19.2
+720,Siqueira Campos,2024-11-17,Salgado,Pastelzinho de queijo,260,15.6
+720,Siqueira Campos,2024-11-17,Salgado,Bolinha de bacon,140,8.4
+720,Siqueira Campos,2024-11-17,Salgado,Pastelzinho de queijo,460,27.6
+720,Siqueira Campos,2024-11-17,Salgado,Truton,460,27.6
+721,Siqueira Campos,2024-11-17,Doce,Leque,120,8.4
+721,Siqueira Campos,2024-11-17,Doce,Nata com folhos,1601,96.06
+721,Siqueira Campos,2024-11-17,Doce,Palmier canela,460,32.2
+722,Siqueira Campos,2024-11-17,Doce,Canudinho nutella,140,11.2
+723,Siqueira Campos,2024-11-17,Salgado,Polvilho queijo,120,7.2
+723,Siqueira Campos,2024-11-17,Salgado,Truton,260,15.6
+723,Siqueira Campos,2024-11-17,Salgado,Polvilho queijo,1251,75.06
+724,Siqueira Campos,2024-11-17,Salgado,Bolinha de bacon,480,28.8
+725,Siqueira Campos,2024-11-17,Salgado,Bolinha de bacon,1451,87.06
+726,Siqueira Campos,2024-11-17,Doce,Vaidosa,220,13.2
+727,Siqueira Campos,2024-11-17,Doce,Rosca da penha,240,14.4
+728,Siqueira Campos,2024-11-17,Salgado,Bolinha de bacon,220,13.2
+729,Siqueira Campos,2024-11-17,Doce,Champanhota,200,12.0
+729,Siqueira Campos,2024-11-17,Doce,Canudinho nutella,440,35.2
+730,Siqueira Campos,2024-11-17,Salgado,Disquete,340,23.8
+730,Siqueira Campos,2024-11-17,Salgado,Peito de peru,280,16.8
+730,Siqueira Campos,2024-11-17,Salgado,Polvilho natural,400,24.0
+731,Siqueira Campos,2024-11-17,Doce,Canudinho nutella,260,20.8
+732,Siqueira Campos,2024-11-17,Doce,Canudinho chocolate,480,33.6
+733,Siqueira Campos,2024-11-17,Doce,Brinquinho,380,22.8
+733,Siqueira Campos,2024-11-17,Doce,Nata,200,12.0
+734,Siqueira Campos,2024-11-17,Doce,Champanhota,100,6.0
+734,Siqueira Campos,2024-11-17,Doce,Palmier,300,21.0
+734,Siqueira Campos,2024-11-17,Doce,Nata com folhos,400,24.0
+735,Siqueira Campos,2024-11-17,Doce,Nata com folhos,260,15.6
+735,Siqueira Campos,2024-11-17,Doce,Palmier,300,21.0
+736,Siqueira Campos,2024-11-17,Doce,Champanhota,140,8.4
+737,Siqueira Campos,2024-11-17,Salgado,Pastelzinho de queijo,420,25.2
+737,Siqueira Campos,2024-11-17,Salgado,Polvilho queijo,300,18.0
+738,Siqueira Campos,2024-11-17,Salgado,Pastelzinho de queijo,260,15.6
+738,Siqueira Campos,2024-11-17,Salgado,Pastelzinho de queijo,300,18.0
+739,Siqueira Campos,2024-11-17,Salgado,Truton,1101,66.06
+739,Siqueira Campos,2024-11-17,Salgado,Pastelzinho de queijo,120,7.2
+740,Jardim de Alah,2024-11-18,Doce,Mil folhas,340,23.8
+741,Jardim de Alah,2024-11-18,Salgado,Peito de peru,420,25.2
+741,Jardim de Alah,2024-11-18,Salgado,Polvilho natural,180,10.8
+742,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,180,10.8
+743,Jardim de Alah,2024-11-18,Doce,Champanhota,420,25.2
+744,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,480,28.8
+744,Jardim de Alah,2024-11-18,Salgado,Truton,120,7.2
+744,Jardim de Alah,2024-11-18,Salgado,Bolinha de bacon,360,21.6
+745,Jardim de Alah,2024-11-18,Salgado,Disquete,1851,129.57
+745,Jardim de Alah,2024-11-18,Salgado,Peito de peru,100,6.0
+745,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,951,57.06
+745,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,140,8.4
+745,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,200,12.0
+745,Jardim de Alah,2024-11-18,Salgado,Disquete,340,23.8
+745,Jardim de Alah,2024-11-18,Salgado,Polvilho natural,440,26.4
+746,Jardim de Alah,2024-11-18,Doce,Leque,140,9.8
+747,Jardim de Alah,2024-11-18,Salgado,Polvilho natural,260,15.6
+747,Jardim de Alah,2024-11-18,Salgado,Truton,260,15.6
+748,Jardim de Alah,2024-11-18,Doce,Leque,180,12.6
+748,Jardim de Alah,2024-11-18,Doce,Leque,140,9.8
+748,Jardim de Alah,2024-11-18,Doce,Vaidosa,320,19.2
+748,Jardim de Alah,2024-11-18,Doce,Nata com folhos,651,39.06
+748,Jardim de Alah,2024-11-18,Doce,Mentirinha,160,9.6
+749,Jardim de Alah,2024-11-18,Doce,Brinquinho,380,22.8
+750,Jardim de Alah,2024-11-18,Doce,Topless,440,26.4
+750,Jardim de Alah,2024-11-18,Doce,Nata,200,12.0
+750,Jardim de Alah,2024-11-18,Doce,Leite condensado,480,28.8
+750,Jardim de Alah,2024-11-18,Doce,Topless,480,28.8
+751,Jardim de Alah,2024-11-18,Salgado,Peito de peru,200,12.0
+752,Jardim de Alah,2024-11-18,Doce,Champanhota canela,260,15.6
+753,Jardim de Alah,2024-11-18,Doce,Brinquinho,300,18.0
+753,Jardim de Alah,2024-11-18,Doce,Nata,180,10.8
+753,Jardim de Alah,2024-11-18,Doce,Champanhota canela,1701,102.06
+753,Jardim de Alah,2024-11-18,Doce,Casadinho doce de leite,140,9.8
+754,Jardim de Alah,2024-11-18,Salgado,Bolinha de bacon,420,25.2
+755,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,440,26.4
+756,Jardim de Alah,2024-11-18,Salgado,Polvilho queijo,380,22.8
+756,Jardim de Alah,2024-11-18,Salgado,Polvilho queijo,180,10.8
+757,Jardim de Alah,2024-11-18,Doce,Palmier canela,240,16.8
+758,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,340,20.4
+758,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,160,9.6
+759,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,220,13.2
+759,Jardim de Alah,2024-11-18,Salgado,Disquete,220,15.4
+760,Jardim de Alah,2024-11-18,Salgado,Truton,400,24.0
+761,Jardim de Alah,2024-11-18,Doce,Topless,480,28.8
+762,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,160,9.6
+762,Jardim de Alah,2024-11-18,Salgado,Truton,300,18.0
+762,Jardim de Alah,2024-11-18,Salgado,Peito de peru,1601,96.06
+762,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,420,25.2
+763,Jardim de Alah,2024-11-18,Doce,Rosca da penha,100,6.0
+763,Jardim de Alah,2024-11-18,Doce,Leque,360,25.2
+763,Jardim de Alah,2024-11-18,Doce,Nata com folhos,220,13.2
+763,Jardim de Alah,2024-11-18,Doce,Leite condensado,240,14.4
+764,Jardim de Alah,2024-11-18,Doce,Casadinho goiaba,180,12.6
+765,Jardim de Alah,2024-11-18,Salgado,Polvilho natural,220,13.2
+766,Jardim de Alah,2024-11-18,Doce,Nata com folhos,120,7.2
+767,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,360,21.6
+768,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,460,27.6
+768,Jardim de Alah,2024-11-18,Salgado,Polvilho natural,160,9.6
+768,Jardim de Alah,2024-11-18,Salgado,Polvilho natural,180,10.8
+768,Jardim de Alah,2024-11-18,Salgado,Truton,260,15.6
+768,Jardim de Alah,2024-11-18,Salgado,Polvilho cebola,120,7.2
+769,Jardim de Alah,2024-11-18,Salgado,Disquete,1351,94.57
+770,Jardim de Alah,2024-11-18,Salgado,Polvilho queijo,160,9.6
+771,Jardim de Alah,2024-11-18,Salgado,Pastelzinho de queijo,420,25.2
+771,Jardim de Alah,2024-11-18,Salgado,Polvilho queijo,220,13.2
+771,Jardim de Alah,2024-11-18,Salgado,Peito de peru,260,15.6
+772,Nossa senhora da paz,2024-11-22,Salgado,Pastelzinho de queijo,220,13.2
+773,Nossa senhora da paz,2024-11-22,Salgado,Polvilho cebola,340,20.4
+773,Nossa senhora da paz,2024-11-22,Salgado,Polvilho natural,1451,87.06
+774,Nossa senhora da paz,2024-11-22,Doce,Nata,1201,72.06
+775,Nossa senhora da paz,2024-11-22,Salgado,Polvilho queijo,260,15.6
+775,Nossa senhora da paz,2024-11-22,Salgado,Polvilho queijo,160,9.6
+776,Nossa senhora da paz,2024-11-22,Doce,Brinquinho,140,8.4
+776,Nossa senhora da paz,2024-11-22,Doce,Casadinho goiaba,200,14.0
+776,Nossa senhora da paz,2024-11-22,Doce,Mil folhas,320,22.4
+777,Nossa senhora da paz,2024-11-22,Doce,Mil folhas,480,33.6
+777,Nossa senhora da paz,2024-11-22,Doce,Nata com folhos,260,15.6
+777,Nossa senhora da paz,2024-11-22,Doce,Champanhota,280,16.8
+777,Nossa senhora da paz,2024-11-22,Doce,Topless,180,10.8
+777,Nossa senhora da paz,2024-11-22,Doce,Canudinho chocolate,340,23.8
+778,Nossa senhora da paz,2024-11-22,Doce,Casadinho goiaba,100,7.0
+778,Nossa senhora da paz,2024-11-22,Doce,Palmier canela,100,7.0
+779,Nossa senhora da paz,2024-11-22,Salgado,Disquete,300,21.0
+780,Nossa senhora da paz,2024-11-22,Salgado,Pastelzinho de queijo,220,13.2
+780,Nossa senhora da paz,2024-11-22,Salgado,Truton,1401,84.06
+780,Nossa senhora da paz,2024-11-22,Salgado,Bolinha de bacon,480,28.8
+780,Nossa senhora da paz,2024-11-22,Salgado,Bolinha de bacon,480,28.8
+781,Nossa senhora da paz,2024-11-22,Salgado,Disquete,440,30.8
+781,Nossa senhora da paz,2024-11-22,Salgado,Polvilho natural,140,8.4
+781,Nossa senhora da paz,2024-11-22,Salgado,Pastelzinho de queijo,120,7.2
+782,Largo do Machado,2024-11-23,Doce,Casadinho doce de leite,420,29.4
+782,Largo do Machado,2024-11-23,Doce,Leite condensado,380,22.8
+782,Largo do Machado,2024-11-23,Doce,Canudinho nutella,240,19.2
+783,Largo do Machado,2024-11-23,Salgado,Polvilho queijo,440,26.4
+783,Largo do Machado,2024-11-23,Salgado,Truton,651,39.06
+783,Largo do Machado,2024-11-23,Salgado,Pastelzinho de queijo,220,13.2
+784,Largo do Machado,2024-11-23,Salgado,Bolinha de bacon,380,22.8
+784,Largo do Machado,2024-11-23,Salgado,Bolinha de bacon,400,24.0
+785,Largo do Machado,2024-11-23,Doce,Champanhota,380,22.8
+786,Largo do Machado,2024-11-23,Doce,Nata com folhos,300,18.0
+786,Largo do Machado,2024-11-23,Doce,Palmier,440,30.8
+787,Largo do Machado,2024-11-23,Doce,Nata com folhos,801,48.06
+788,Largo do Machado,2024-11-23,Salgado,Bolinha de bacon,320,19.2
+789,Largo do Machado,2024-11-23,Doce,Palmier canela,100,7.0
+789,Largo do Machado,2024-11-23,Doce,Nata com folhos,320,19.2
+790,Largo do Machado,2024-11-23,Salgado,Peito de peru,460,27.6
+790,Largo do Machado,2024-11-23,Salgado,Peito de peru,240,14.4
+791,Largo do Machado,2024-11-23,Salgado,Disquete,1401,98.07
+792,Largo do Machado,2024-11-23,Salgado,Disquete,360,25.2
+792,Largo do Machado,2024-11-23,Salgado,Polvilho natural,400,24.0
+793,Largo do Machado,2024-11-23,Doce,Palmier,200,14.0
+794,Largo do Machado,2024-11-23,Salgado,Pastelzinho de queijo,200,12.0
+795,Largo do Machado,2024-11-23,Salgado,Polvilho natural,200,12.0
+796,Largo do Machado,2024-11-23,Salgado,Polvilho natural,300,18.0
+797,Largo do Machado,2024-11-23,Salgado,Peito de peru,140,8.4
+798,Largo do Machado,2024-11-23,Doce,Mil folhas,901,63.07
+798,Largo do Machado,2024-11-23,Doce,Nata com folhos,320,19.2
+798,Largo do Machado,2024-11-23,Doce,Canudinho nutella,280,22.4
+798,Largo do Machado,2024-11-23,Doce,Vaidosa,440,26.4
+798,Largo do Machado,2024-11-23,Doce,Leite condensado,380,22.8
+798,Largo do Machado,2024-11-23,Doce,Palmier,200,14.0
+798,Largo do Machado,2024-11-23,Doce,Topless,340,20.4
+799,Largo do Machado,2024-11-23,Doce,Canudinho nutella,260,20.8
+800,Largo do Machado,2024-11-23,Salgado,Pastelzinho de queijo,320,19.2
+801,Largo do Machado,2024-11-23,Doce,Mentirinha,100,6.0
+802,Largo do Machado,2024-11-23,Salgado,Polvilho cebola,1051,63.06
+803,Siqueira Campos,2024-11-24,Salgado,Pastelzinho de queijo,360,21.6
+804,Siqueira Campos,2024-11-24,Doce,Mil folhas,100,7.0
+804,Siqueira Campos,2024-11-24,Doce,Champanhota canela,200,12.0
+804,Siqueira Campos,2024-11-24,Doce,Palmier canela,260,18.2
+805,Siqueira Campos,2024-11-24,Salgado,Peito de peru,180,10.8
+805,Siqueira Campos,2024-11-24,Salgado,Polvilho cebola,120,7.2
+806,Siqueira Campos,2024-11-24,Salgado,Polvilho queijo,651,39.06
+807,Siqueira Campos,2024-11-24,Doce,Vaidosa,400,24.0
+808,Siqueira Campos,2024-11-24,Salgado,Bolinha de bacon,240,14.4
+808,Siqueira Campos,2024-11-24,Salgado,Peito de peru,320,19.2
+809,Siqueira Campos,2024-11-24,Salgado,Polvilho cebola,400,24.0
+809,Siqueira Campos,2024-11-24,Salgado,Peito de peru,360,21.6
+810,Siqueira Campos,2024-11-24,Doce,Canudinho chocolate,260,18.2
+810,Siqueira Campos,2024-11-24,Doce,Nata com folhos,320,19.2
+811,Siqueira Campos,2024-11-24,Salgado,Bolinha de bacon,380,22.8
+811,Siqueira Campos,2024-11-24,Salgado,Pastelzinho de queijo,200,12.0
+811,Siqueira Campos,2024-11-24,Salgado,Peito de peru,240,14.4
+812,Siqueira Campos,2024-11-24,Salgado,Bolinha de bacon,180,10.8
+813,Siqueira Campos,2024-11-24,Doce,Palmier,440,30.8
+814,Siqueira Campos,2024-11-24,Salgado,Pastelzinho de queijo,440,26.4
+814,Siqueira Campos,2024-11-24,Salgado,Disquete,440,30.8
+815,Siqueira Campos,2024-11-24,Salgado,Disquete,200,14.0
+815,Siqueira Campos,2024-11-24,Salgado,Polvilho queijo,240,14.4
+815,Siqueira Campos,2024-11-24,Salgado,Polvilho cebola,400,24.0
+815,Siqueira Campos,2024-11-24,Salgado,Pastelzinho de queijo,180,10.8
+815,Siqueira Campos,2024-11-24,Salgado,Bolinha de bacon,160,9.6
+815,Siqueira Campos,2024-11-24,Salgado,Peito de peru,220,13.2
+815,Siqueira Campos,2024-11-24,Salgado,Pastelzinho de queijo,180,10.8
+816,Siqueira Campos,2024-11-24,Doce,Nata,380,22.8
+817,Siqueira Campos,2024-11-24,Doce,Champanhota canela,320,19.2
+818,Siqueira Campos,2024-11-24,Doce,Canudinho nutella,460,36.8
+818,Siqueira Campos,2024-11-24,Doce,Palmier,260,18.2
+819,Siqueira Campos,2024-11-24,Doce,Nata,460,27.6
+819,Siqueira Campos,2024-11-24,Doce,Canudinho chocolate,320,22.4
+820,Siqueira Campos,2024-11-24,Doce,Leque,200,14.0
+820,Siqueira Campos,2024-11-24,Doce,Mentirinha,280,16.8
+821,Siqueira Campos,2024-11-24,Doce,Palmier,180,12.6
+821,Siqueira Campos,2024-11-24,Doce,Palmier canela,160,11.2
+822,Siqueira Campos,2024-11-24,Doce,Palmier,380,26.6
+822,Siqueira Campos,2024-11-24,Doce,Palmier canela,100,7.0
+822,Siqueira Campos,2024-11-24,Doce,Nata,420,25.2
